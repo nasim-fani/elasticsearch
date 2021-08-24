@@ -1,0 +1,194 @@
+{
+ "max_score": 14.85877,
+ "hits": [
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "8868",
+   "_score": 14.85877,
+   "_source": {
+    "title": "FALSE: Pope Francis Shares Instagram Selfie",
+    "url": "https://www.snopes.com/fact-check/pope-francis-shares-instagram-selfie/",
+    "date_published": "14 December 2015",
+    "rating": "False",
+    "author_name": "Kim LaCapria",
+    "category": "Fauxtography",
+    "tags": [
+     "hoaxes",
+     "instagram",
+     "politics",
+     "pope francis",
+     "selfie"
+    ],
+    "claim": "Pope Francis uploaded a selfie to the Vatican's Instagram account.",
+    "content": " On 14 December 2015, multiple web sites carried news of what was purportedly Pope Francis\u2019 \u201cfirst selfie\u201d (published to an Instagram account that appeared to belong to the Vatican):    @catholicworld #popeFrancis #papaFrancesco #papaFrancisco #papstFranziskus #papeFran\u00e7ois #\u043f\u0430\u043f\u0430\u0444\u0440\u0430\u043d\u0446\u0438\u0441\u043a A photo posted by VATICAN.VA (@vatican__) on Dec 14, 2015 at 2:15am PST   Among outlets sharing the Papal selfie was CNN; video of that brief coverage was captured by a separate Twitter account:  .@Pontifex posts on Instagram \u2014 be honest, have you seen a better selfie? https://t.co/ZxAnvYl12F \u2014 New Day (@NewDay) December 14, 2015          While the claim was believable given Pope Francis\u2019 reputation for being progressive and technologically adept, it was ultimately false. The image (not a \u201cselfie\u201d in the strictest \u201cself-taken\u201d sense) appeared to have been captured from a video chat between Pope Francis and young Catholics around the world. At roughly the 01:23 mark of the video, a nervous young man can be seen inadvertently reading aloud a directive not to get nervous. In turn, His Holiness laughed:  The web site Mashable confirmed with the Vatican that the Pope neither maintained nor was involved with the Instagram account that published the fake selfie. Previous rumors attached to the Pope falsely held that he said it was not necessary to believe in God, that he declared all religions were \u201ctrue,\u201d that he officially endorsed Bernie Sanders, that he did an impressive magic trick involving a tablecloth, that he revised Catholic doctrine to permit fornication, and that he stated beloved pets go to heaven.  "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "164",
+   "_score": 13.338055,
+   "_source": {
+    "title": "Did Pope Francis\u2019 Instagram Account \u2018Like\u2019 a Racy Photo?",
+    "url": "https://www.snopes.com/fact-check/pope-francis-like-a-racy-photo/",
+    "date_published": "19 November 2020",
+    "rating": "True",
+    "author_name": "Bethania Palma",
+    "category": "Embarrassments",
+    "claim": "The Instagram account for Pope Francis \"liked\" a racy image of a Brazilian model.",
+    "content": " In November 2020, journalists reported that the official Instagram account for Pope Francis had \u201cliked\u201d a racy photograph of Natalia Garibotto, a Brazilian model. The picture showed Garibotta in lingerie with her rear end facing the camera. The Catholic News Agency (CNA) reported, \u201cThe exact time of the \u201clike\u201d is unclear, but it was visible and reported by news outlets on November 13. The photograph was unliked on November 14, after CNA asked the Holy See Press Office for comment.\u201d But it wasn\u2019t \u201cunliked\u201d before Garibotto\u2019s management company, Coy Co., captured a screenshot, which it posted to its own Instagram account, along with the comment that it had received the \u201cPOPE\u2019S OFFICIAL BLESSING.\u201d To be clear, the Pope\u2019s social media accounts are managed by a team, not Francis himself. The Vatican launched an investigation into the matter. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "2506",
+   "_score": 13.338055,
+   "_source": {
+    "title": "Did Rick Perry Fall For A Years-Old Social Media Privacy Hoax?",
+    "url": "https://www.snopes.com/fact-check/rick-perry-instagram-hoax/",
+    "date_published": "21 August 2019",
+    "rating": "True",
+    "author_name": "Alex Kasprak",
+    "category": "Politics",
+    "claim": "U.S. Energy Secretary Rick Perry posted a legal-notice hoax to his Instagram account. ",
+    "content": " On Aug. 20, 2019, U.S. Department of Energy Secretary Rick Perry posted a notice on Instagram informing that company that \u201cit is strictly forbidden to disclose, copy, distribute, or take any other action against me based on this profile and/or its contents.\u201d Though he later deleted it, the shared text falsely claimed that posting such a notice would legally prevent the company from using the material he posted to the platform:  Perry was not alone in sharing this purported legal advice. Several celebrities including Judd Apatow, Debra Messing, Taraji P. Henson, Julia Roberts, Julianne Moore, and Usher also shared the same picture.  Nothing contained in this viral text is true. A spokesperson for Facebook, which owns Instagram, told BuzzFeed News that \u201cthere\u2019s no truth to this post.\u201d In fact, the text contained within it is merely a re-purposed version of one of the most pervasive viral hoaxes of the social media era, as we recently noted in a post on Snopes\u2019 Instagram account:                View this post on Instagram                        A post shared by Snopes.com (@snopesdotcom) on Aug 20, 2019 at 7:18pm PDT            Since at least 2012, people have littered Facebook with some variation of a legal notice intended to prevent the social media company from making users\u2019 posts public. The current iteration merely replaces the word \u201cFacebook\u201d with \u201cInstagram.\u201d Snopes\u2019 debunking of the Facebook claim remains one of the most heavily trafficked fact checks in our database to this day. After being informed of the error, Perry deleted the post. Poking fun at himself, he later posted this \u201cnotice\u201d to Instagram:                View this post on Instagram                        A post shared by GovernorPerry (@governorperry) on Aug 21, 2019 at 7:54am PDT    The Department of Energy is responsible, in part, for safeguarding America\u2019s nuclear energy secrets. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "4820",
+   "_score": 12.38723,
+   "_source": {
+    "title": "Did the Florida Shooter\u2019s Instagram Profile Picture Feature a \u2018MAGA\u2019 Hat?",
+    "url": "https://www.snopes.com/fact-check/did-shooters-instagram-picture-maga-hat/",
+    "date_published": "15 February 2018",
+    "rating": "True",
+    "author_name": "Dan Evon",
+    "category": "Fauxtography",
+    "tags": [
+     "donald trump",
+     "maga",
+     "mass shooting",
+     "nikolas cruz",
+     "parkland",
+     "school shooting"
+    ],
+    "claim": "An Instagram account linked to suspected shooter Nikolas Cruz featured an avatar that included a \"MAGA\" hat.",
+    "content": " In the aftermath of a 14 February 2018 school shooting in Parkland, Florida that left at least seventeen people dead, the Internet brimmed over with rumors and disinformation about suspected shooter Nikolas Cruz. Was he a Dreamer? No. A registered Democrat? No. Was he pictured in an \u201cantifa t-shirt\u201d? No. Was he photographed in a hat bearing President Trump\u2019s 2016 campaign slogan, \u201cMAGA\u201d (\u201cMake America Great Again\u201d)?  The MAGA hat rumor was based on the profile picture of Instagram account \u201cNikolasCruzMakarov.\u201d The account has since been deleted (you can see an archived version here) but screenshots of the page have already traveled far and wide on social media:   The images from this account were included in a number of articles from credible news sources. Still, some claimed that the \u201cnikolascruzmakarov\u201d account was a hoax, and that the suspected shooter\u2019s real account was actually located under \u201ccruz_nikolas\u201d (forgetting, apparently, that individuals can and often do open more than one account on social media.) Others asserted that the \u201cnikolascruzmakarov\u201d account was created after the shooting in order to frame the suspected shooter as a Trump supporter:           Students who knew Cruz confirmed to the Miami Herald that the \u201ccruz_nikolas\u201d Instagram page was authentic; the web site Heavy.com reported that it had verified the \u201cnikolascruzmakarov\u201d page. Instagram also seemingly confirmed the authenticity of these account when responding to a question posed by Guardian reporter Jon Swain:    Instagram implicitly confirming that an account with a MAGA Trump hat avatar belonged to gunman Nikolas Cruz. Asked why the account was removed, spokesperson says: pic.twitter.com/LdXb73iCj8 \u2014 Jon Swaine (@jonswaine) February 15, 2018  This is a terrible tragedy and our hearts go out to the people who have been affected. There is absolutely no place on our platforms for people who commit such horrendous acts. We have found and immediately deleted the shooter\u2019s accounts on Facebook and instagram. Broward Sheriff Scott Israel also seemed to confirm that the \u201cnikolascruzmakarov\u201d account was authentic when he said that Cruz had posted disturbing photographs of dead lizards to social media: Speaking on WIOD-610 AM radio Thursday morning, Broward Sheriff Scott Israel said Cruz had posted troubling photos and videos on social media. \u201cWe saw a pic yesterday where he took a chameleon and he splattered the chameleon,\u201d Israel said. \u201cThings like this, that\u2019s not normal behavior.\u201d The \u201cnikolascruzmakarov\u201d account (the Instagram handle appears to be a combination of the suspect\u2019s name, Nikolas Cruz, and \u201cMakarov,\u201d the name of a Russian semi-automatic pistol) does feature images of dead lizards:         A classmate also mentioned the dead lizard photographs on Cruz\u2019s Instagram feed in a statement to NBC News. ABC News also posted images from this account and reported that law enforcement sources had confirmed that it did indeed belong to the suspected shooter: According to Broward County Sheriff Scott Israel, investigators have already found some \u201cdisturbing\u201d content on social media that could have provided warning signs. \u201cWe have already begun to dissect his websites and things on social media that he was on, and some of the things that have come to mind are very, very disturbing,\u201d Israel said. The photos posted on an Instagram account law enforcement sources tell ABC News belongs to the suspected shooter shows a young man displaying an arsenal of weapons. Images from this account were also compiled for a video from the Associated Press:  The claim that this account was made after the shooting in order to frame Cruz as a Donald Trump supporter can also be debunked. Before this account was deleted, several outlets took screenshots of the images on this Instagram page which included time stamps dating back months before the shooting. The following photograph from Fox News, for instance, includes a time stamp from July 2017:  Fox shared this image with the caption: \u201cA picture on Nikolas Cruz\u2019s Instagram page shows him holding a rifle. (Instagram).\u201d A classmate told the Daily Beast that Cruz frequently wore patriotic clothing and that he was spotted wearing at least one \u201cMAGA\u201d hat: \u201cI knew him to be passive aggressive but not violent. He was rude to people. He had an act up like he was tough. He never got into, like, physical fights with anyone, but he did get into verbal arguments,\u201d 17-year-old Ocean Parodie told The Daily Beast. \u201cI just thought he dropped out of school, I didn\u2019t think he would do anything. He always kept a low profile.\u201d [\u2026] Cruz always had his hair short and had a penchant for wearing patriotic shirts that \u201cseemed really extreme, like hating on\u201d Islam, Parodie said. The suspected gunman would also deride Muslims as \u201cterrorists and bombers.\u201d \u201cI\u2019ve seen him wear a Trump hat,\u201d the student said. Regardless of what political party the Parkland mass shooter purported to support, a picture of his belief system is coming into focus: on 15 February 2018, the Anti-Defamation League, which tracks and monitors hate groups, issued a press release stating that he may have been affiliated with Republic of Florida, a white supremacist group. However, local law enforcement says that as yet there is no indication of any ties between Cruz and any paramilitary groups, including ROF. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "2753",
+   "_score": 10.268826,
+   "_source": {
+    "title": "Did Kellogg\u2019s Release Ranch-Flavored Pop-Tarts?",
+    "url": "https://www.snopes.com/fact-check/kelloggs-ranch-pop-tarts/",
+    "date_published": "25 June 2019",
+    "rating": "False",
+    "author_name": "Dan Evon",
+    "category": "Fauxtography",
+    "claim": "Kellogg's released a \"Ranch Pop-Tart.\" ",
+    "content": " In June 2019, an image supposedly showing Kellogg\u2019s newly released, ranch-flavored Pop-Tarts started circulating on social media:  This is not a genuine image of a real Kellogg\u2019s product. This image was created by the Instagram account \u201cPoptartaday,\u201d a social media account that aims to posts a new fake flavor of Pop-Tarts every day. You can see a watermark for  @poptartaday in the upper left-hand corner of this image.  Poptartaday posted this image to its Instagram account on 19 June 2019 with the caption: \u201cNothing hits the spot more than a warm late night Hidden Valley Ranch Pop Tart! Rich, creamy, and full of fresh seasoning @hidden.valley \ud83e\udd24\u201d                  View this post on Instagram                                  A post shared by Pop Tart A Day (@poptartaday) on Jun 19, 2019 at 8:47pm PDT            The @Poptartaday account has created dozens of other fake flavors of Pop-Tarts, such as feet, denim, squid ink, and garbage. The account notes that it is a \u201cParody Account\u201d that is \u201cnot affiliated with the brands on my page.\u201d Kellogg\u2019s has not released a ranch Pop-Tart. And, judging from a previous run-in with Pop-Tarts and ranch, it\u2019s safe to say that they have no plans to do so in the future. In November 2017, a Twitter user posted a photograph of a Pop-Tart being dipped into some ranch dressing along with the caption: \u201cYou ain\u2019t from Oklahoma if you don\u2019t dip your Pop Tart in Ranch Dressing \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f.\u201d The official Pop-Tarts Twitter account responded: \u201cThis is just disrespectful.\u201d  "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "15",
+   "_score": 9.820361,
+   "_source": {
+    "title": "Did Biden\u2019s Team Release a \u2018Statement\u2019 From His Dog?",
+    "url": "https://www.snopes.com/fact-check/biden-team-statement-dog/",
+    "date_published": "3 December 2020",
+    "rating": "False",
+    "author_name": "Madison Dapcevich",
+    "category": "Politics",
+    "claim": "The staff of U.S. President-elect Joe Biden released a \u201cstatement\u201d from Major, the first family\u2019s adopted German shepherd, wishing his \u201cadopted father\u201d a \u201cspeedy recovery\u201d from hairline fractures in his foot.",
+    "content": " After U.S. President-elect Joe Biden experienced two hairline fractures in his foot when he took a spill while walking his adopted German shepherd, Major, in late November 2020, his furry friend-elect was quick to deny any wrongdoing.  Deflecting any apparent guilt in the accident, Major shared a \u201cstatement\u201d to Instagram on Nov. 29 and Twitter on Dec. 1. In the statement, Major supposedly stated that he wished his \u201cadopted father\u201d a \u201cspeedy recovery\u201d and \u201cstrongly maintain[ed] that I have done nothing wrong.\u201d  It was smol accident. I sorry.\u2013 Major \ud83d\udc3e pic.twitter.com/9oZhq4773J \u2014 FIRST DOGS CHAMP &amp; MAJOR BIDEN (@firstdogsusa) December 1, 2020  Some media publications ran with the statement, reporting that the supposed statements came from Biden\u2019s team. Snopes readers asked our team to verify whether members of the president-elect\u2019s team had indeed shared the statement on behalf of Major. Our analysis determined that the statement came from the \u201cpawficial\u201d Instagram and Twitter accounts of the Biden\u2019s two German shepherds, Champ and Major, which appear to be unofficial fan pages. \u201cWe are the First Dogs of the USA, Champ and Major Biden\u2019s pawfficial fan page. You can call us #DOTUS. We love nom noms, snuggles &amp; roaming in the WH!\u201d reads the Instagram profile page of @first_dogs_usa, which had 65,200 followers at the time of this publication. It appears that the Twitter account by the same name, @firstdogsusa, joined the platform in June 2020, and had over 5,600 followers at the time of writing. The account is said to be \u201cdedicated to the first dogs of the United States, Champ and Major Biden.\u201d Neither account has been verified by the social media platforms, and there appears to be no official affiliation between the accounts and the Biden team. Snopes sent a message to the account on Twitter in an attempt to clarify who runs the fan pages, but did not receive a bark back at the time of publication. We will update the article accordingly. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "975",
+   "_score": 9.812796,
+   "_source": {
+    "title": "Did Trump Promote Goya Foods from the Oval Office?",
+    "url": "https://www.snopes.com/fact-check/donald-trump-goya-beans/",
+    "date_published": "16 July 2020",
+    "rating": "True",
+    "author_name": "Bethania Palma",
+    "category": "Politics",
+    "claim": "U.S. President Donald Trump promoted Goya brand foods from his desk in the Oval Office.",
+    "content": " U.S. President Donald Trump posed for a picture in the Oval Office with a number of Goya products, and the photograph was posted to his verified Instagram account on July 15, 2020.                View this post on Instagram                        A post shared by President Donald J. Trump (@realdonaldtrump) on Jul 15, 2020 at 11:02am PDT    The image was apparently surreal enough to prompt readers to ask whether it was real, and it is. It\u2019s currently visible on Trump\u2019s Instagram page. The post on Trump\u2019s account, and a similar one posted on his eldest daughter and adviser Ivanka\u2019s Twitter account, reflects a recent internet dust-up over the brand Goya. On July 9, 2020, Goya CEO Robert Unanue appeared at the White House and praised the president. This resulted in Trump\u2019s critics calling to boycott the Goya brand and an inevitable push by his supporters to buy Goya products. President Trump and Ivanka\u2019s bean posts also earned criticism from government ethics experts, who said that the product plugging violated anti-corruption rules. \u201cAs a pictorial representation of the Trump administration\u2019s war on government ethics, both photos are perfectly clear,\u201d wrote Walter Shaub, the former director of the U.S. Office of Governmental Ethics. \u201cThey scream \u2018the rules don\u2019t apply to us,\u2019 a central message of the Trump administration from the start.\u201d The Trumps\u2019 posts also earned a clapback from U.S. Rep. Alexandria Ocasio-Cortez, a Democrat from New York:  Si es Trump, tiene que ser corrupto \ud83d\udcb8 https://t.co/Ti3oxFO6oY \u2014 Alexandria Ocasio-Cortez (@AOC) July 15, 2020  Ocasio-Cortez\u2019s post, translated into English, reads, \u201cIf it\u2019s Trump, it has to be corrupt.\u201d "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "11187",
+   "_score": 9.69636,
+   "_source": {
+    "title": "Instagram Cancellation Hoax",
+    "url": "https://www.snopes.com/fact-check/instagram-cancellation-hoax/",
+    "date_published": "",
+    "author_name": "David Mikkelson",
+    "category": "Computers",
+    "tags": [
+     "ASP Article",
+     "internet"
+    ],
+    "claim": "",
+    "content": ""
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "4817",
+   "_score": 9.641159,
+   "_source": {
+    "title": "Was the Suspected Florida High School Shooter Affiliated with the Islamic State?",
+    "url": "https://www.snopes.com/fact-check/florida-nikolas-cruz-isis/",
+    "date_published": "15 February 2018",
+    "rating": "False",
+    "author_name": "Dan MacGuill",
+    "category": "Crime",
+    "tags": [
+     "Alex Jones",
+     "infowars",
+     "ISIS",
+     "islam",
+     "islamic state",
+     "islamic terrorism",
+     "Islamophobia",
+     "nikolas cruz",
+     "parkland school shooting"
+    ],
+    "claim": "Accused school shooter Nikolas Cruz has ties to the Islamic State or other Islamic extremist groups.",
+    "content": " In the aftermath of a deadly high school shooting in south Florida in February 2018, conspiracy theorist web site Infowars offered speculation about the suspected perpetrator\u2019s ideological affiliations, claiming that his clothing was similar to that of ISIS fighters and pointing to a purported Instagram screen shot showing a Google search for \u201cAllahu Akbar.\u201d The Infowars article carried the headline \u201cReported Florida Shooter Discussed \u2018Allahu Akbar\u2019 on Instagram Profile,\u201d raising the specter of Islamic extremism as a potential motive in the shooting at Marjory Stoneman Douglas High School in Parkland, Florida, which killed at least 17 people. Infowars continued by proclaiming that \u201cAdditionally, the shooter\u2019s garb is very similar to the style worn by ISIS fighters in Syria.\u201d No evidence supports a hypothesis that the suspected assailant Nikolas Cruz was affiliated with any Islamic terrorist network or is himself a Muslim, and an overwhelming amount evidence to the contrary indicates otherwise. According to the Miami Herald, friends of Cruz confirmed that the referenced Instagram account (cruz_nikolas), which has since been deleted, was his. On this account, Cruz appears to have posted several photographs of himself holding a variety of knives and firearms, often covering his face with a black scarf. But in four out of five images of himself Cruz was wearing a United States Army hat, unlikely accoutrement for an \u201cISIS fighter.\u201d The second flimsy piece of evidence offered by Infowars was another post on the cruz_nikolas Instagram account showing a screenshot of a Google search for \u201cAllahu Akbar,\u201d an Arabic phrase meaning roughly, \u201cGod is great.\u201d This phrase is commonly used in a variety of everyday circumstances (particularly prayer) but it has also been exclaimed by violent Islamic militants before and during attacks.         However, far from being an indication of Cruz\u2019s religious devotion or support for Islamic extremism, his comments next to the image suggest he was not previously aware of the meaning of \u201cAllahu Akbar,\u201d and that he was hostile to Muslims and Islam in general:  According to a version of the post saved by Google\u2019s web cache, Cruz wrote: \u201cWell at least we now know what it means when a sand durka says \u2018allahu Akbar.'\u201d (\u201cDurka\u201d is a nonsense word used in the context of Islam and especially Islamist terrorism, usually with a derogatory or dismissive connotation. It originated in scenes from the movie Team America: World Police.) Ocean Parodie, a former schoolmate of Cruz, corroborated the latter\u2019s antipathy towards Islamic extremism and Muslims in general in an interview with the Daily Beast: Cruz always had his hair short and had a penchant for wearing patriotic shirts that \u201cseemed really extreme, like hating on\u201d Islam, Parodie said. The suspected gunman would also deride Muslims as \u201cterrorists and bombers.\u201d Not only does no evidence support any hypothesis that Nikolas Cruz may have been affiliated with the Islamic State, but upon closer inspection the two pieces of evidence highlighted by Infowars (Cruz\u2019s clothing and the fact that he \u201cdiscussed\u201d the phrase \u201cAllahu Akbar\u201d on Instagram) both actually serve to undermine speculation about any link to Islamic terror rather than support it \u2014 as does his expressed animus towards Muslims and Islam in general. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "3160",
+   "_score": 9.365971,
+   "_source": {
+    "title": "Does TikTok Allow Strangers to Access the Personal Information of Users Who Don\u2019t Share Those Details?",
+    "url": "https://www.snopes.com/fact-check/musically-tiktok-warning/",
+    "date_published": "18 February 2019",
+    "rating": "False",
+    "author_name": "Dan MacGuill",
+    "category": "Technology",
+    "claim": "TikTok's settings allow unauthorized users to obtain the personal contact details of other users who have not made their details public. ",
+    "content": " Social media and chat apps have long been a cause of concern for parents and adults, as well as a source of viral online warnings about the dangers to children of cyber-predators. Sexual predators and pedophiles do use such apps to target and contact children and young teens (as we have examined previously), but the claims made in viral Facebook warnings are often overstated or even erroneous \u2014 children can usually protect themselves from the unwanted attention of strangers by using the privacy settings that come with most popular apps, as well as by taking a general approach of caution and skepticism about would-be contacts or \u201cfriends.\u201d In early 2019, a viral Facebook message warned about the purported dangers of TikTok, the most popular example of a recent wave of short-video social media apps, including Snapchat, Dubsmash and (prior to 2016) Vine: \u201cIf your child has MUSICALLY/TIK TOK, make them delete it now! Friday night, [my daughter] got a text from a Pennsylvania number. They knew her name, age, where she lived and her email. We took her phone to Verizon and they said it was the most dangerous app. Even with her account being set to private, they can still access all of her information.\u201d          This warning was further promulgated on Facebook when it was re-posted on 12 February:  It is possible for someone to obtain a phone number, email address, or other personal information about a TikTok user, but only if the TikTok user in question shares such information. As such, the February 2019 viral Facebook message was fundamentally mistaken in the focus of its warning, suggesting as it did that the app\u2019s settings \u2014 rather than the actions of its users \u2014 allowed potentially predatory adults to access contact details that a child did not allow to be shared. Background TikTok is a wildly popular mobile app that allows users to record and share videos of up to 15 seconds in length. In August 2018, it replaced the rebranded Musical.ly app in the United States after that app was acquired by the Chinese company ByteDance. TikTok is especially popular among teens, who typically use it to post videos of themselves singing along to their favorite songs, short comedy sketches, or a variety of viral \u201cchallenges.\u201d Some commentators have praised TikTok as being genuinely good fun and inclusive of eclectic interests and subcultures, and the New York Times hailed it for its relatively low levels of bullying and harassment, saying TikTok \u201cmight well be the only truly pleasant social network in existence.\u201d However, others have pointed out that the fame-seeking, music-video ethos of the app has given rise to an uncomfortable trend of young teens\u2019 engaging in sexually suggestive dancing and behavior, and still others have highlighted the fact that TikTok\u2019s relatively young user base means sexual predators and pedophiles have been known to pose as teens and engage in grooming on the app. Privacy and safety When signing up for a TikTok account, a user is asked to provide their phone number or email address, as well as their date of birth. (The app does not allow users who state their age as being under 13 years old to register.) TikTok does not request the user\u2019s city, state, or country of residence. The app texts or emails the user a four-digit verification code in order to complete the account setup.        TikTok users can follow and add each other as friends and send each other private messages, but one user cannot successfully send another user a message until both users have \u201cfollowed\u201d each other and thereby become \u201cfriends.\u201d Users cannot attach videos or photographs to private messages. (We tested these restrictions using two dummy accounts.) After the registration process is complete, a TikTok user\u2019s account is set to \u201cpublic\u201d by default. This means that any videos that user might post will, in principle, be visible to any other users, except for those whom the posting user has blocked. However, a TikTok user can switch their account to private (which means only approved users can view their videos), and they can adjust their privacy settings in other ways \u2014 for example, determining whether everyone can leave comments under their videos, whether only friends can comment, or whether no one can:  Most important, a TikTok user\u2019s \u201cbio\u201d \u2014 which typically contains a brief description of the user, their age, and their interests \u2014 is visible to everyone even if the user\u2019s account is set to \u201cprivate,\u201d but the user alone decides what information to include in their bio. The phone number or email address that a user employed to register an account does not automatically show up in their TikTok profile or in their bio. That personal information is only used by TikTok or verification purposes in setting up the account in the first place. The February 2019 warning For all the reasons we have outlined, the suggestion made in the viral February 2019 Facebook warning is simply not plausible. TikTok\u2019s privacy and security restrictions do not allow for one user\u2019s personal information \u2014 such as age, email address, phone number. or location \u2014 to become obtainable to another user on TikTok, unless the first user shared that information (whether knowingly or inadvertently).        We tested this by setting up two dummy TikTok accounts, giving both the most permissive privacy settings available, and causing each to add the other as a friend. Despite that combination, neither account was able to view the phone number, email address, location, or date of birth/age relating to the other account. We then went even further, linking one TikTok account to an existing Instagram account and YouTube account. The second TikTok account was still not able to view the email address, phone number, or date of birth associated with the first TikTok account\u2019s now-linked Instagram account, nor the location associated with the first TikTok account\u2019s now-linked YouTube account. A spokesperson for TikTok confirmed these findings. We asked whether it was possible, under any privacy setting, for one TikTok user to obtain the email address, phone number, age, or location of another TikTok user simply because the second TikTok user provided that information to the app when setting up an account. The spokesperson wrote in response that \u201cNo privacy setting would enable or facilitate this.\u201d We asked whether linking one TikTok account to an Instagram or YouTube account could conceivably mean that the personal information pertaining to the Instagram or YouTube account would then become available to someone viewing the user\u2019s TikTok account. In reply, the company\u2019s spokesperson wrote: \u201cNo, this scenario would not be possible. When you move from TikTok to another app, like Instagram or YouTube, you follow the settings of that app, including the user\u2019s account privacy settings.\u201d Of course, someone could obtain the phone number, age, email address, or location of a TikTok user if that TikTok user posted the information in their bio, in a comment, in a video, or in a private message. A user might even inadvertently share their personal information by, for example, having an envelope or piece of paper containing their phone number or address visible in the background of a video.  However, in such a scenario the sharing of the personal information would be due to the actions of the TikTok user, not the app\u2019s settings. We contacted the woman who originally posted the warning to Facebook on 11 February. She confirmed that her daughter had been texted by an unrecognized number and that this action formed the basis of her Facebook post. When we inquired how she was able to determine that this text contact had been the result of details shared via TikTok, the woman answered it was \u201cbecause that is the only \u2018social media\u2019 app she has.\u201d The woman added that she was \u201c100% positive that [her daughter] did not give out her number.\u201d We cannot determine what happened in the case of the woman\u2019s daughter, but it is possible that the person who texted her acquired her phone number, first name, and location from a third party or mutual acquaintance.  But as far as we could determine, it is not possible that the person who texted the girl obtained her personal contact details simply by viewing her TikTok profile unless the girl had herself made those details publicly available. "
+   }
+  }
+ ]
+}

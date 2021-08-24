@@ -1,0 +1,21 @@
+{
+ "max_score": 66.8425,
+ "hits": [
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "499",
+   "_score": 66.8425,
+   "_source": {
+    "title": "Are Crab Cake Oreos Real?",
+    "url": "https://www.snopes.com/fact-check/crab-cake-oreos-real/",
+    "date_published": "13 October 2020",
+    "rating": "False",
+    "author_name": "Dan Evon",
+    "category": "Food",
+    "claim": "An image shows a genuine \"Crab Cake Oreos\" product. ",
+    "content": " In October 2020, an image started circulating on social media that supposedly showed a new flavor of Oreo cookies: crab cake.   These Crab Cake Oreos (complete with tartar sauce cream filling) are not a genuine flavor of Oreo cookies. This image was created by a social media users with a penchant for producing fake (and, one might argue, disgusting) products.  This image was originally posted to the @Hollow.Foods Instagram page in May 2020. This Instagram page writes in its bio that it creates products for the \u201cworlds worst grocery store.\u201d So far, Hollow.Foods has imagined ill-advised products such as toothpaste-flavored ice cream bars called Cresticles, cobweb filled \u201cspooky\u201d Hot Pockets, spam-flavored Pop Tarts, a \u201cpresidential\u201d orange soda, and a ham water scented candle. This page has also produced a second fictional Oreo flavor: Buffalo chicken wings. While the origins of this image make it pretty clear that these Crab Cake Oreos are a fake product, we sheepishly reached out to Mondelez International, the company that manufacturers Oreo cookies, for confirmation.  A spokesperson told us: \u201cI can confirm that this is not a real OREO cookie flavor.\u201d While these Crab Cake Oreos are not real, there have been some interesting Oreo cookie flavors released over the years, such as lemon, pistachio, carrot cake, and mint. "
+   }
+  }
+ ]
+}

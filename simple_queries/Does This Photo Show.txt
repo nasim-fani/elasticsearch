@@ -1,0 +1,180 @@
+{
+ "max_score": 16.45475,
+ "hits": [
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "2349",
+   "_score": 16.45475,
+   "_source": {
+    "title": "Does This Photo Capture a Skull-Like Face in the Clouds?",
+    "url": "https://www.snopes.com/fact-check/does-photo-show-skull-face/",
+    "date_published": "23 September 2019",
+    "rating": "False",
+    "author_name": "David Mikkelson",
+    "category": "Fauxtography",
+    "claim": "A photograph shows a skull-like cloud formation above California.",
+    "content": " One of the more common \u201cface in the clouds\u201d images that circulate on social media is the following picture, which seemingly captures an evil, grinning, skull-like countenance said to have appeared in the sky in any one of a number of various locales.  Even viewers who aren\u2019t well-versed in digital editing can spot this image for what it is, particularly if they\u2019re heavy metal fans \u2014 the macabre visage supposedly glimpsed in the clouds and captured on film was directly lifted from the cover illustration for Iron Maiden\u2019s 2000 album, \u201cBrave New World\u201d:  The album\u2019s title was taken from the famous 1932 dystopian Aldous Huxley novel, and the sky portion of its cover art was created by artist Derek Riggs. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "916",
+   "_score": 14.218853,
+   "_source": {
+    "title": "Does This Photo Show Buses Purchased by BLM?",
+    "url": "https://www.snopes.com/fact-check/blm-buses-photo/",
+    "date_published": "27 July 2020",
+    "rating": "Miscaptioned",
+    "author_name": "David Mikkelson",
+    "category": "Fauxtography",
+    "tags": [
+     "George Floyd Protests"
+    ],
+    "claim": "A photograph shows buses purchased by Black Lives Matter to \"transport members to riots.\"",
+    "content": " Rumors are surging in the wake of George Floyd\u2019s death and resulting protests against police violence and racial injustice in the United States. Stay informed. Read our special coverage, contribute to support our mission, and submit any tips or claims you see here.  Amidst the political turmoil in the U.S. following the May 2020 police custody death of George Floyd in Minneapolis, a meme shared on social media sought to denigrate the Black Lives Matter (BLM) movement. That meme claimed BLM had raised \u201cover a billion dollars\u201d but had not used that money to provide necessities such as food, housing, or schooling; instead, they had expended it on buying \u201chuge charter busses to transport members to riots\u201d:  As for the first part of the meme, BLM is a \u201cdecentralized movement advocating for non-violent civil disobedience in protest against incidents of police brutality and all racially motivated violence against African-American people\u201d; it isn\u2019t a centrally organized group that was founded for the purpose of feeding the hungry, providing housing, or funding schooling, nor does it raise money on that basis. Moreover, the photograph accompanying this meme does not show any buses purchased by BLM \u201cto transport members to riots,\u201d or for any other purpose. The vehicles pictured here belong to the Toronto Raptors professional basketball team, who wrapped their buses with the Black Lives Matter name as a show of support for the movement, as documented on the Raptors\u2019 Twitter account:  Silence is not an option. pic.twitter.com/qpn8sMo2nu \u2014 Toronto Raptors (@Raptors) July 9, 2020  The same photograph was used to accompany a CBC article about the Raptors\u2019 arrival at the protected \u201cNBA bubble\u201d training facility at the Walt Disney World Resort in Orlando, Florida, where the picture was captioned as follows: \u201cThe reigning NBA champion Toronto Raptors arrived at the Disney campus after a two-hour drive from Naples, Fla., where the team has trained for roughly two weeks. The team\u2019s buses were wrapped with its logo and the words \u2018Black Lives Matter\u2019 displayed.\u201d "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "14474",
+   "_score": 14.218853,
+   "_source": {
+    "title": "Does This Photo Show Computer Storage in 1956?",
+    "url": "https://www.snopes.com/fact-check/computer-storage-1956/",
+    "date_published": "4 December 2007",
+    "rating": "True",
+    "author_name": "David Mikkelson",
+    "category": "Fauxtography",
+    "claim": "A photograph shows a 1956 computer disk memory storage unit.",
+    "content": " When mid-20th century prognosticators tried to imagine what life would be like in the 21st century, they often envisioned a world in which computers were large, powerful, and few \u2014 massive machines that controlled all sorts of functions from centralized locations.   Instead, what we have today are large numbers of (increasingly) smaller and cheaper computers distributed along networks, many of them dedicated to handling specialized tasks.   It\u2019s not surprising, then, that those who came of age in the era of the personal computer might view a picture of a cabinet-sized (5\u2032 x 6\u2032) 4.4 MB disk drive as something taken from a 1950s science fiction film or the product of digital manipulation, as depicted in this photograph:  CAN YOU GUESS WHAT THIS IS?  Its a hard disk in 1956\u2026. The Volume and Size of 5MB memory storage in 1956. In September 1956 IBM launched the 305 RAMAC, the first computer with a hard disk drive (HDD). The HDD weighed over a ton and stored 5MB of data. Makes you appreciate your 4 GB USB drive, doesn\u2019t it?  In 1956, IBM introduced the 305 RAMAC system, generally acknowledged as the first (commercially successful) computer to feature what we would now call a \u201cdisk drive\u201d or \u201chard drive\u201d (i.e., data stored on a magnetic disk and accessed via a moving head).  An EETimes article described RAMAC\u2019s capabilities and size as follows:  It started with a product announcement in May of 1955. IBM Corp. was introducing a product that offered unprecedented random-access storage \u2014 5 million characters (not bytes, they were 7-bit, not 8-bit characters). This first disk drive heralded startling leaps in mass-storage technology and the end of sequential storage on punched cards and paper or Mylar tape, though magnetic tape would continue for archival or backup storage. The disk drive was big, not quite ready for today\u2019s laptop. With its vacuum-tube control electronics, the RAMAC (for \u201crandom-access method of accounting and control\u201d) occupied the space of two refrigerators and weighed a ton. It stored those 5 million characters on 50 hefty aluminum disks coated on both sides with a magnetic iron oxide, a variation of the paint primer used for the Golden Gate Bridge.  What\u2019s pictured above is indeed the IBM 350 disk storage unit utilized by the IBM 305 RAMAC:  The 350 Disk Storage Unit consisted of the magnetic disk memory unit with its access mechanism, the electronic and pneumatic controls for the access mechanism, and a small air compressor. Assembled with covers, the 350 was 60 inches long, 68 inches high and 29 inches deep. It was configured with 50 magnetic disks containing 50,000 sectors, each of which held 100 alphanumeric characters, for a capacity of 5 million characters. Disks rotated at 1,200 rpm, tracks (20 to the inch) were recorded at up to 100 bits per inch, and typical head-to-disk spacing was 800 microinches. The execution of a \u201cseek\u201d instruction positioned a read-write head to the track that contained the desired sector and selected the sector for a later read or write operation. Seek time averaged about 600 milliseconds.  With storage capacities of 5 million and 10 million digits, and the capability to be installed either singly or in pairs, the 350 provided the 305 system with storage capacities of 5, 10, 15 or 20 million characters.  An IBM RAMAC 305 with a 350 disk storage unit leased for about $3,200 per month back in 1957 (roughly $29,000 in 2020 dollars).  Over a thousand of the 305 systems (one of IBM\u2019s last vacuum tube units) were manufactured before production ended in 1961, and the 305 was withdrawn in 1969. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "1292",
+   "_score": 13.524401,
+   "_source": {
+    "title": "Does This Photo Show Trump Wearing a Protective Mask?",
+    "url": "https://www.snopes.com/fact-check/trump-face-mask-ford/",
+    "date_published": "22 May 2020",
+    "rating": "True",
+    "author_name": "Dan Evon",
+    "category": "Fauxtography",
+    "tags": [
+     "COVID-19"
+    ],
+    "claim": "A photograph shows U.S. President Donald Trump wearing a protective face mask during a visit to a Ford manufacturing plant in spring 2020.",
+    "content": " As governments fight the COVID-19 pandemic, Snopes is fighting an \u201cinfodemic\u201d of rumors and misinformation, and you can help. Read our coronavirus fact checks. Submit any questionable rumors and \u201cadvice\u201d you encounter. Become a Founding Member to help us hire more fact-checkers. And, please, follow the CDC or WHO for guidance on protecting your community from the disease.   In the days before U.S. President Donald Trump\u2019s visit to a Ford manufacturer in Michigan on May 21, 2020, the company informed the White House that face masks would be required for all visitors. This request proved somewhat controversial, however, as Trump had thus far refused to wear a mask in public during the COVID-19 coronavirus disease pandemic, despite recommendations from health officials.  The majority of videos and photographs from the visit showed Trump touring the facility, delivering a speech, and speaking with Ford executives \u2014 all without a face covering. So when a photograph emerged supposedly showing Trump wearing a face mask during this visit, some viewers were surprised and skeptical of the sight:  Trump does NOT want you to share this picture of him wearing a mask\u2026 pic.twitter.com/vCO06D0Ud6 \u2014 William LeGate (@williamlegate) May 22, 2020  As it turns out, this is a genuine photograph of Trump wearing a face mask during part of his visit to a Ford manufacturing plant in Michigan.  Executive Chairman Bill Ford confirmed that Trump \u201cwore a mask during a private viewing of three Ford GTs from over the years. The president later removed the mask for the remainder of the visit.\u201d Mark Truby, Ford chief communications officer, said, \u201cThe subject of a face mask came up. Bill said it would be great if you could wear one. Trump then retrieved one from his personal staff with a White House seal on it, and then they proceeded to visit.\u201d Trump also confirmed that he work a mask during a portion of the visit. Trump told reporters that he wore a mask in the \u201cback area,\u201d but that he removed his mask because he \u201cdidn\u2019t want to give the press the pleasure of seeing it.\u201d Trump then showed the press his mask and said that he took it off because he was giving a speech:      "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "1670",
+   "_score": 13.524401,
+   "_source": {
+    "title": "Does This Photo Show a Real Storm Over Paris?",
+    "url": "https://www.snopes.com/fact-check/real-storm-over-paris-photo/",
+    "date_published": "28 February 2020",
+    "rating": "False",
+    "author_name": "Dan Evon",
+    "category": "Fauxtography",
+    "claim": "A photograph shows a large storm looming over Paris, France. ",
+    "content": " An image supposedly showing a large storm looming over Paris, France, was widely shared across social media in February 2020:  This is not a genuine photograph of a storm in Paris. The digital artwork was created by Brent Shavnore, who creates arresting images by combining two or more photographs. While Shavnore\u2019s fans are likely aware that many of his pieces are edited composites, his images occasionally get shared online as if they were genuine photographs. We\u2019ve previously reported on a few of his pieces, such as this image showing a large storm over Penscaola Beach, Florida, and this picture of a hurricane approaching Miami, Florida. Shavnore demonstrates how he creates such images in this video:      To achieve the effect in the viral image of the Paris storm, Shavnore used a photograph of Paris on a clear day taken by @YuriFineart in March 2015, and he edited in a separate picture of a dangerous storm. We have not been able to identify the source of the latter photograph.  Here\u2019s a look at how this storm was incorporated into the original Paris photograph:  "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "1734",
+   "_score": 13.524401,
+   "_source": {
+    "title": "Does This Photo Show Trump\u2019s and Bloomberg\u2019s Height Disparity?",
+    "url": "https://www.snopes.com/fact-check/trump-bloomberg-height/",
+    "date_published": "14 February 2020",
+    "rating": "False",
+    "author_name": "Dan Evon",
+    "category": "Fauxtography",
+    "claim": "A photograph highlights the height disparity between U.S. President Donald Trump and 2020 Democratic presidential candidate Michael Bloomberg. ",
+    "content": " On Feb. 13, 2020, as U.S. President Donald Trump and Democratic presidential candidate Michael Bloomberg traded jabs on social media, a photograph supposedly highlighting the height disparity between the two circulated on social media.  Actor James Woods drew attention to the photograph on Twitter:  Trump (who is reportedly 6 foot 3) had been mocking Bloomberg (who is reportedly 5 foot 8) on social media over his height. While Trump is certainly taller than Bloomberg, this photograph doesn\u2019t document the true height disparity between the two men. It was manipulated to make Bloomberg look small.  The original photograph showed Trump, Bloomberg, and Jared Kushner at an event in New York in March 2013. It was taken by Paul Bruinooge/Patrick McMullan and is available via Getty Images along with the caption: NEW YORK, NY \u2013 MARCH 14: (L-R) Donald Trump, Mayor Michael Bloomberg and Jared Kushner attend The New York Observer 25th Anniversary at Four Seasons Restaurant on March 14, 2013 in New York City. (Photo by Paul Bruinooge/Patrick McMullan via Getty Images)         We cropped the original photograph (left) in order to compare it to the doctored image (right):You can see the uncropped photograph on Getty Images.  Although we\u2019re not able to independently verify the actual heights of these two individuals, it seems that their statures have been exaggerated over the years. While Bloomberg is currently listed on Google at 5 foot 8, the former mayor of New York once identified himself as 5 foot 7. Trump\u2019s 2016 White House physical listed him as 6 foot 3, but he was listed as 6 foot 2 on his 2012 driver\u2019s license.  Regardless, it appears that height may be a leading issue in the lead-up to the 2020 elections:  "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "2414",
+   "_score": 13.524401,
+   "_source": {
+    "title": "Does This Photo Show Trump Getting a Spray Tan?",
+    "url": "https://www.snopes.com/fact-check/trump-spray-tan-oval-office/",
+    "date_published": "18 October 2017",
+    "rating": "False",
+    "author_name": "Dan Evon",
+    "category": "Fauxtography",
+    "tags": [
+     "donald trump"
+    ],
+    "claim": "An image shows President Trump getting a spray tan in the Oval Office.",
+    "content": " An image purportedly showing President Donald Trump receiving a spray tan while nude in the oval office was widely circulated on social media after it was posted by the Twitter account @Defeat_GOP on 14 October 2017:  The man in the image is not Donald Trump. This photograph was taken by Alison Jackson, an artist known for using celebrity lookalikes to create staged paparazzi-style images. A description of Jackson\u2019s work appears on her web site: Alison Jackson is renowned for her explorations into how photography and the cult of the celebrity have transformed our relationship to what is \u2018real\u2019. Her notorious photographic portraits, life-like sculptures, films and videos are startlingly realistically staged affairs that cast uncannily styled actors into an entirely fathomable projection of a future that could have been; or the intimate, often salacious, imagined private moments of media icons such as Diana Princess of Wales, the Queen of England, Marilyn Monroe, George Bush, Brad and Angelina, and David Beckham. Jackson\u2019s productions stress-test the implicit belief that a photograph can capture a frozen moment of \u2018truth\u2019.  This isn\u2019t the first one of Jackson\u2019s photographs to fool unsuspecting internet users. We\u2019ve also covered one of Jackson\u2019s images purportedly showing a nude Bill Clinton receiving a massage, and another image purportedly showing President Trump at a Ku Klux Klan rally. Jackson also created several other images featuring a Trump lookalike performing questionable activities in the oval office. Those photographs, along with other staged images featuring celebrity lookalikes, appear in Jackson\u2019s book Private. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "507",
+   "_score": 12.894625,
+   "_source": {
+    "title": "Does This Photo Show Biden Meeting Government Officials Without Masks?",
+    "url": "https://www.snopes.com/fact-check/biden-meeting-no-masks/",
+    "date_published": "12 October 2020",
+    "rating": "Miscaptioned",
+    "author_name": "David Mikkelson",
+    "category": "Fauxtography",
+    "tags": [
+     "2020 election"
+    ],
+    "claim": "A photograph captures Joe Biden meeting with several government officials in September 2020, with none of those present wearing masks.",
+    "content": " Starting in September 2020, amidst the COVID-19 pandemic, social media users began circulating a photograph purporting to show Democratic presidential nominee Joe Biden meeting with various government officials \u201clast night,\u201d with none of them wearing face masks to prevent spreading the virus:  The photograph is a genuine one, showing Biden with his hand on the shoulder of Dennis Archer, Jr. (son of former Detroit mayor Dennis Archer), with Michigan governor Gretchen Whitmer visible in the background. However, the picture was not taken in Washington, D.C., nor in the latter part of 2020. It was snapped in Detroit earlier in the year, before both COVID-19 cases began to be reported in that state, and before the Centers for Disease Control and Prevention began advising Americans to wear face coverings. This image is from March 9, 2020, and captures a fundraiser held at the Detroit Athletic Club. Michigan did not report its first (presumptive) positive cases of COVID-19 (and declare a state of emergency) until the following day, the CDC did not first recommend that Americans begin wearing cloth or fabric face coverings in public spaces until April 3, and Michigan did not begin requiring the wearing of facemasks until April 24. On Sep. 11, 2020, the Detroit Athletic Club confirmed via a Facebook post that the photograph was \u201cfrom a private event prior to the shutdown in March.\u201d Archer\u2019s posting of this photograph to his Instagram account in Sep. 2020 is likely what drove initial circulation of this meme, even though that post noted that picture originated \u201cearlier this year (pre Covid).\u201d "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "1938",
+   "_score": 12.894625,
+   "_source": {
+    "title": "Does This Photo Show Wedding Rings Taken from Holocaust Victims?",
+    "url": "https://www.snopes.com/fact-check/wedding-rings-holocaust-victims/",
+    "date_published": "5 January 2020",
+    "rating": "True",
+    "author_name": "David Mikkelson",
+    "category": "Fauxtography",
+    "claim": "A photograph documents a cache of wedding rings removed from Holocaust victims.",
+    "content": " Some of the most chilling photographs documenting the horrors of the Holocaust feature neither the perpetrators nor the victims of that genocide.  Rather, these haunting images document enormous caches of suitcases, clothing, hair, shoes, eyeglasses, artificial limbs, jewelry teeth, and other items confiscated from victims sent to various Nazi death camps:    Such pictures are spine-chilling both because they provide an easily assimilable visual depiction of the sheer scale and enormity of the Holocaust, and because they offer a visceral reminder of how Nazi ideology viewed certain classes of human beings as nothing more than raw material to be exploited and disposed of:  Accused Nazi war criminal Josef Schwammberger used pliers to rip out Jews\u2019 gold teeth and forced concentration camp prisoners to strip before having them killed and cremated, witnesses said in accounts \u2026 One account was from Siegfried Kellermann, who spoke to Innsbruck police in 1946 about the roundup three years earlier of Jews from the southeastern Polish town of Przemysl. \u2033There was a huge wood pile, which was set on fire and all people had to strip naked and give up any gold, money and jewelry,\u2033 Kellermann said in describing Schwammberger\u2019s treatment of the prisoners. \u2033Schwammberger and two or three other men killed the people, and their bodies were immediately thrown into the fire.\u2033 Heinrich Kirschenbaum, a former inmate in the camp at Mielec near Krakow, told investigators Schwammberger checked to see if inmates had gold teeth and told those who did to report to him at night. \u2033After they showed up, Schwammberger personally ripped out their gold teeth with a pliers,\u2033 according to the file report.  One picture of this type is frequently circulated via social media, said to show wedding or engagement rings removed from the fingers of Holocaust victims:  Picture of engagement rings removed from the fingers of World War- II victims. Imagine how many love stories were buried!Wars are never easy!Nd we r making fun of it.. #shameful act..#WWIIl #WW3 pic.twitter.com/9CgOACecb0 \u2014 ChaudhRy Saab (@tera_Lover_) January 5, 2020          The photograph included in the above tweet is indeed a genuine archival representation of this class of image. The accompanying caption provided by Getty Images describes it as follows: \u201cA US soldier inspects thousands of gold wedding bands taken from Jews by the Nazis and stashed in the Heilbronn Salt Mines on May 3, 1945, in Germany. The treasures were uncovered by allied forces after the defeat of Nazi Germany.\u201d    The U.S. Holocaust Memorial Museum archives the same photograph with an expanded description of what it depicts:  A soldier dips his hands into a crate full of rings confiscated from prisoners in Buchenwald and found by American troops in a cave adjoining the concentration camp. Original caption reads: \u201cThese are a few of the thousands of wedding rings the Germans removed from their victims in order to salvage the gold. U.S. First Army troops found these rings, with watches, precious stones, eyeglasses, and gold teeth fillings, in a cave adjoining the Buchenwald concentration camp near Weimar, Germany. 5/5/45.\u201d Original caption from donated photograph: \u201cEvery wedding ring here represents a home broken and a human murdered by the Germans. These are only a small portion of the thousands of wedding rings the Germans removed from their prisoners to salvage the gold at the notorious Buchenwald concentration camp near Weimar, Germany. U.S. troops discovered these rings along with watches, precious stones, eyeglasses, and even gold teeth fillings when they liberated the camp and freed 21,000 prisoners in April, 1945. Death already had liberated 70,000 who were starved or butchered during the Nazi reign of terror.\u201d    "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "1971",
+   "_score": 12.894625,
+   "_source": {
+    "title": "Does This Photo Show a Real Zebra with Menorah Stripes?",
+    "url": "https://www.snopes.com/fact-check/menorah-zebra/",
+    "date_published": "23 December 2019",
+    "rating": "False",
+    "author_name": "Bethania Palma",
+    "category": "Fauxtography",
+    "tags": [
+     "fauxtography"
+    ],
+    "claim": "A viral image shows a real zebra that has stripes in the shape of a menorah.",
+    "content": " The start of Hanukkah on Dec. 22, 2019, arrived online with an altered photograph of a zebra bearing stripes in the shape of a menorah.  This image has been on the internet since at least 2012, and though the underlying photograph of a zebra is real, the pictured zebra doesn\u2019t have menorah-shaped stripes. The original image (sans menorah) can be found on iStock, a stock image provider. It was taken at Kruger National Park in South Africa. The altered version has circulated widely throughout the years, with a tendency to resurface prominently around Hanukkah.  Lighting candles is central to the celebration of the eight-day Jewish holiday, during which a candle is lit each night to commemorate what is known as the Miracle of Hanukkah. As NPR reports, \u201cJews celebrate their victory over a tyrant king and the rededication of the Temple in Jerusalem. As the story goes, a small quantity of oil to light the Temple\u2019s menorah miraculously lasted eight days.\u201d "
+   }
+  }
+ ]
+}

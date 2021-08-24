@@ -1,0 +1,208 @@
+{
+ "max_score": 21.926653,
+ "hits": [
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "10340",
+   "_score": 21.926653,
+   "_source": {
+    "title": "Black Lives Matter",
+    "url": "https://www.snopes.com/fact-check/blacklivesmatter/",
+    "date_published": "",
+    "author_name": "David Mikkelson",
+    "category": "Fauxtography",
+    "tags": [
+     "ASP Article"
+    ],
+    "claim": "",
+    "content": ""
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "7913",
+   "_score": 19.26483,
+   "_source": {
+    "title": "Pandora Endorses Black Lives Matter?",
+    "url": "https://www.snopes.com/fact-check/pandora-black-lives-matter-protest/",
+    "date_published": "11 July 2016",
+    "rating": "Mixture",
+    "author_name": "Dan Evon",
+    "category": "Business",
+    "tags": [
+     "black lives matter",
+     "boycott",
+     "Corporate Alliances",
+     "pandora"
+    ],
+    "claim": "The streaming music service Pandora endorsed the Black Lives Matter movement while ignoring the deaths of Dallas police officers.",
+    "content": " July 2016 saw a week of high-profile shootings involving police the United States: On 5 July 2016, Alton Sterling was shot and killed by police officers in Baton Rouge, Louisiana; the following day, Philando Castile was shot and killed by police during a traffic stop in Minnesota; and the day after that a sniper shot and killed five police officers during a Black Lives Matter protest in Dallas.  On 8 July 2016, the streaming music service Pandora posted a message on social media expressing a feeling of pain and a gesture of support related to those events:  Although Pandora\u2019s post stated that their \u201chearts ache for all of those who unfairly lost their lives\u201d and included the hashtag #LoveAboveAll, their use of the #BlackLivesMatter hashtag to represent the victims of police shootings but not an equivalent hashtag to represent the policemen killed in Dallas (such as  #BlueLivesMatter) generated controversy along with calls for boycotts of the music service.  That reaction then prompted social media calls for people to subscribe to Pandora as a gesture of support:  @pandora_radio and I'm deleting now \u2014 Big_Blue_Nate123 (@BlueNate123) July 9, 2016           @pandora_radio took a stand, and ppl are pissed\u2026.let's support and subscribe! #LoveAboveAll #BlackLivesMatter https://t.co/McvsxAgoAd \u2014 Olivia X (@EsSeNCeofaDiVa) July 11, 2016  Social media messages expressing anger over Pandora\u2019s message often asserted that the Black Lives Matter movement is anti-police, or that the movement was responsible for the shooting of police in Dallas. Black Lives Matter co-founder Alicia Garza attempted to dispel these rumors during an appearance on All in with Chris Hayes: \u201cBlack Lives Matter has never, ever called for the murder of police officers,\u201d Garza told Hayes. \u201cWhat we have said over and over again is that it is time in this country for policing to be accountable, transparent and responsible. That\u2019s not rhetoric. That is what communities in the United States want to see from the people who protect and serve them. And so quite frankly, we can, at the same time as we grieve the loss of life of several officers who were killed last night, we can also push to demand that there be accountable, responsive, transparent policing that has oversight form communities and that is accountable to the communities they are supposed to protect and serve.\u201d Garza added that Black Lives Matter isn\u2019t concerned with inciting more violence \u2014 in fact, the movement condemns it \u2014 but with tearing down the assumption that black people are criminals. \u201cWe are not anti-police,\u201d she declared. \u201cWe are anti our people being murdered in the streets. What happened to Alton Sterling, what happened to Philando, what happens to so many black people in our communities is absolutely unacceptable, and I think that\u2019s something that we can all agree on.\u201d Ironically, those upset over Pandora\u2019s message announced that they would be boycotting the streaming music service on Facebook, even though Facebook openly expressed support for the Black Lives Matter movement by erecting a Black Lives Matter sign outside their headquarters in Menlo Park, California:  "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "7433",
+   "_score": 18.162403,
+   "_source": {
+    "title": "Ford Motors Funds Black Lives Matter",
+    "url": "https://www.snopes.com/fact-check/ford-motors-funds-black-lives-matter/",
+    "date_published": "26 September 2016",
+    "rating": "False",
+    "author_name": "Kim LaCapria",
+    "category": "Business",
+    "tags": [
+     "allen b. west",
+     "american news",
+     "black lives matter",
+     "Corporate Alliances",
+     "daily caller",
+     "ford"
+    ],
+    "claim": "The Ford Motor Company donated $100 million to the Black Lives Matter movement.",
+    "content": " August 2016 saw the circulation of rumors holding that the Ford Motor Company had donated a large sum of money (typically between one and 100 million dollars) directly to the Black Lives Matter movement: TIME FOR BOYCOTT! Ford Just Gave $100 MILLION To THIS Radical Hate Group Ford used to be one of the most highly-respected and longest-running companies in the United States. Now, the automaker is not only shipping a huge portion of its jobs overseas, it is giving away an enormous sum of money to a separatist and racist hate group. Ford just donated $100 million dollars to Black Lives Matter. A (since removed) blog post published by Allen B. West\u2019s blog on 11 August 2016 called for a boycott of the automaker over the issue: Ford is investing in the Black-Led Movement Fund in partnership with Borealis Philanthropy Movement Strategy Center, and Benedict Consulting. Well, if you were ever looking for a reason not to buy a Ford vehicle or to trade one in you already have, this seems to be just as good as any. Looks like another American icon just caved to the liberal agenda. We see how well that worked out for Target\u2026 Hopefully enough people will express displeasure over this to prompt Ford to stop playing politics and get back to making cars. claim was resurrected by the unreliable American News&nbsp;on 24 September 2016 (during then-current high-profile Black Lives Matter protests), prompting a new wave of&nbsp;consumers threatening to&nbsp;boycott Ford over Black Lives Matter&nbsp;on Ford Motor Company's Facebook page: The claims appeared to stem from an 11 August 2016 article in Fortune, which was admittedly ambiguous in its reporting with respect to the Ford Foundation versus the Ford Motor Company: More than 50 organizations have already registered their support [for the Movement for Black Lives (M4BL)], but one, in particular, stands out. The Ford Foundation added their voice to the growing chorus of supporters, in the strongest possible terms. But the [Ford Foundation]&nbsp;is also planning on studying and underwriting what it calls a \u201cnew and dynamic form of social justice leadership and infrastructure,\u201d by investing in the Black-Led Movement Fund, (BLMF) a pooled donor fund designed to support the work of the Movement for Black Lives (M4BL), and led by Borealis Philanthropy. In the first paragraph above, Fortune&nbsp;erroneously linked the word \"Ford\" in \"Ford Foundation\"&nbsp;&nbsp;to the web site of the Ford Motor Company:  -->         The origins of the rumor lay with a 19 July 2016 announcement from the Ford Foundation titled \u201cWhy black lives matter to philanthropy\u201d explaining why that foundation had \u201cmade six-year investments in the organizations and networks that compose the Movement for Black Lives\u201d: We are living in anxious, often frightening times. Earlier this month, the deaths of Philando Castile and Alton Sterling sparked a new round of public protest against the toxic blend of racism, hypermasculinity, and state violence that has taken the lives of too many black men and women and people of color in the US. At one protest in Dallas, a lone gunman killed five police officers\u2014Lorne Ahrens, Michael Krol, Michael J. Smith, Brent Thompson, and Patrick Zamarripa. We\u2019ve seen reductive attempts to frame the murders in Dallas as a confrontation between protesters and law enforcement, but that obscures the larger democratic principles at play: The officers died while protecting the right to freedom of expression and peaceful protest, and are inexorably linked to Philando Castile and Alton Sterling. These events \u2014 added to so many others, including the fatal shootings of three police officers in Baton Rouge on Sunday morning \u2014 have the potential to either deepen empathy and understanding among Americans or divide us even more sharply along lines of race, ethnicity, and gender. That\u2019s why now is the time to stand by and amplify movements rooted in love, compassion, and dignity for all people. Now is the time to call for an end to state violence directed at communities of color. And now is the time to advocate for investment in public services \u2014 including but not limited to police reform \u2014 together with education, health, and employment in communities and for people that have historically had less opportunity and access to all those things.These are the reasons we support the Movement for Black Lives. However, the flaw in claiming that the Ford Motor Company donated millions of dollars to the Black Lives Matter movement is two-fold. First, although the philanthropic Ford Foundation is so named because it was created and originally funded by automobile icon Henry Ford (along with his son Edsel) and because the foundation was a large holder of Ford stock, those associations ended many years ago. No member of the Ford family or Ford Motor Company management sits on the Ford Foundation Board of Trustees, and the Ford Foundation began selling off its Ford Motor Company stock in the mid-1950\u2019s (a process that was completed in 1974). The completely separate Ford Motor Company Fund and Community Services is the current philanthropic arm of the Ford Motor Company. Second, although they may have common goals, the Black Lives Matter movement and the Movement for Black Lives are not the same thing. The latter is not a single group or movement, but rather \u201ca coalition of over 50 black-led organizations\u201d: Black humanity and dignity requires black political will and power. In response to the sustained and increasingly visible violence against Black communities in the U.S. and globally, a collective of more than 50 organizations representing thousands of Black people from across the country have come together with renewed energy and purpose to articulate a common vision and agenda. We are a collective that centers and is rooted in Black communities, but we recognize we have a shared struggle with all oppressed people; collective liberation will be a product of all of our work. Some of the blog posts responsible for the spread of the rumor that the Ford Motor Company had given millions of dollars to Black Lives Matter were later edited to note that the Ford Foundation and Ford Motor Company had long since parted ways, but by then the claim had already been loosed into the wilds of social media, and the important distinction between the two entities was lost as the rumor traveled from blog to blog. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "9012",
+   "_score": 17.704687,
+   "_source": {
+    "title": "App in the Face",
+    "url": "https://www.snopes.com/fact-check/google-black-lives-matter/",
+    "date_published": "",
+    "author_name": "Dan Evon",
+    "category": "Politics",
+    "tags": [
+     "black lives matter",
+     "google"
+    ],
+    "claim": "",
+    "content": ""
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "7048",
+   "_score": 17.66188,
+   "_source": {
+    "title": "Police Horse Kicks Black Lives Matter Protester",
+    "url": "https://www.snopes.com/fact-check/police-horse-kicks-blm-protester/",
+    "date_published": "15 November 2016",
+    "rating": "Mostly False",
+    "author_name": "Bethania Palma",
+    "category": "Junk News",
+    "tags": [
+     "black lives matter",
+     "canada",
+     "horses",
+     "police"
+    ],
+    "claim": "A police horse kicked a Black Lives Matter protester.",
+    "content": " On 14 November 2016, various disreputable web sites, including TellMeNow.com and even the evangelical pastor Creflo Dollar, began posting a video of a young blonde woman getting kicked in by a police horse after slapping its rear end, claiming that she was a Black Lives Matter protester who received swift justice: And a Black Lives Matter protester realized how stupid she really is after she slapped a police horse. The horse immediately kicked her in the head. She fell flat on her face and then ran away holding her nose. That\u2019s instant karma! These horses are military grade they are trained for riots and will defend themselves if stupid human beings attack them Think again before touching Gods chosen. According to the Kingston Police Department, the incident happened during a homecoming event for Queens University in Kingston, a city in Ontario, Canada. The incident had nothing to do with the Black Lives Matter movement. We haven\u2019t heard back from Kingston police regarding our inquiries, but a series of tweets sent out by the department on 15 October 2016 about the seemingly raucous day indicated that the horse, a mare called Murney, was new to the department and in the process of being trained. She had been slapped a total of three times during the the homecoming event and was startled, but she had not injured anyone. Police tweeted that the three horse slappers could be charged with injuring a law enforcement animal and receive a maximum of five years in prison:  Police horse, Murney, still in training. Startled by slaps but kept her restraint. 3 accused to be charged with Injury to Animal. pic.twitter.com/S5INhdDunW \u2014 Kingston Police (@kingstonpolice) October 16, 2016         The video was posted to the social media platform Instagram, where it was widely viewed: The incident inspired a satirical post by the Canadian publication The Beaverton, headlined \u201cGritty Kingston Police Horse Transferred to Desk Duty While Internal Affairs Investigates\u201d: \u201cShe was tough as nails,\u201d said her partner Constable Greg McCabe. \u201cAnd had one strong left-hoof and could catch any perp who was on foot or bicycle. What I liked about her was her refusal to use her taser or gun, and just trample. You know, old fashioned police work.\u201d Despite her popularity with her co-workers, her superiors were not impressed with her behaviour. The 8 foot equine was previously investigated for skimming apples from a drug bust in 2012, but the investigation was halted after several witnesses disappeared. Equestrians will tell you it\u2019s never a good idea to sneak up behind a horse: they have a blind spot directly behind them, and they often respond to movement in that area by kicking out with their powerful hind legs. Police horses are methodically trained over time to desensitize them from stimuli that would startle ordinary horses, allowing them to work calmly in high-stress situations. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "7429",
+   "_score": 17.179317,
+   "_source": {
+    "title": "Black Lives Matter Protesters Beat Homeless Veteran",
+    "url": "https://www.snopes.com/fact-check/black-lives-matter-protesters-beat-homeless-vet/",
+    "date_published": "26 September 2016",
+    "rating": "False",
+    "author_name": "Kim LaCapria",
+    "category": "Politics",
+    "tags": [
+     "black lives matter",
+     "charlotte",
+     "keith lamont scott",
+     "misrepresented viral videos",
+     "truthfeed"
+    ],
+    "claim": "A video shows Black Lives Matter protesters in Charlotte attacking and beating a homeless vet.",
+    "content": " The 20 September 2016 killing of Keith Lamont Scott by police Charlotte, North Carolina, prompted to several nights of protests in that city, along with rumors that Black Lives Matter (BLM) demonstrators attacked and beaten a homeless veteran simply because he was white \u2014 with the evidence captured on video:  This video clip was widely circulated online in conjunction with the claim that it depicted events in Charlotte. However, many viewers pointed out the red double decker buses viewable passing by in the background of the clip are not a common feature in Charlotte, and that the clip actually originated in London and had nothing to do with Black Lives Matter protests. That what the video captured took place in London and not Charlotte is documented by a 22 September 2016 British tabloid article that reported on an incident just like the one seen in the video: Sickening footage has emerged of an elderly man being kicked to the ground in what appears to be an unprovoked attack. The incident is believed to have taken place in the Stratford Centre area of London and was published on Twitter. Police have launched an investigation and will be carrying out enquiries around the suspected location in an attempt to identify the victim and suspects. A victim, a man with a white beard and hair, is caught unaware by the vicious attack as he stands at a rubbish bin. As reported, the attack occurred in London and had nothing to do with Charlotte or the Black Lives Matter movement, and the homeless victim (presumably also from London) was not described as a \u201cveteran\u201d or recipient of the Purple Heart award. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "7437",
+   "_score": 17.179317,
+   "_source": {
+    "title": "Texas Man Speaks About Black Lives Matter",
+    "url": "https://www.snopes.com/fact-check/texas-man-speaks-about-black-lives-matter/",
+    "date_published": "26 September 2016",
+    "rating": "Correct Attribution",
+    "author_name": "Dan Evon",
+    "category": "Politics",
+    "claim": "A resident of East Texas shared his opinion of the Black Lives Matter movement.",
+    "content": " In August 2016 a photograph of an elderly man from the East Texas city of Tyler, along with a quote attributed to him about the Black Lives Matter movement, was posted online. The combination quickly became a viral hit, buoyed by the ongoing discourse around racism and racial tensions in the United States:  \u201cI don\u2019t get all this \u2018Black Lives Matter\u2019 \u2014 \u2018Blue Lives Matter\u2019 divide. I been around here since \u201957 and I never been to jail. All I see now are these young-in\u2019s running around getting shot because they think they can do whatever they want. That\u2019s not how it works, but you can\u2019t tell them that. I know what real racism looks like and I haven\u2019t seen the likes of that ugly face in years. What needs to happen is unity. Respect your fellow man and 99% of the time, they\u2019ll respect you back no matter what you look like. I\u2019m living proof of that.\u201d (Tyler, Texas) The image was first shared to the \u201cPeople of East Texas\u201d Facebook page on 15 August 2016. As with the enormously popular \u201cHumans of New York\u201d Facebook page and web site, \u201cPeople of East Texas\u201d interviews local residents and then shares highlights from those interviews along with photographs: People of East Texas (POET) started on August of 2015. In that short period of time POET and it\u2019s contents has taken on a life of its own. We have been featured in a number of publications and media outlets as well as on countless other social media sites. The goal of POET is to make you, the reader, feel anything but indifferent through organic and raw content provided by those that are interviewed for the page. People of East Texas provided additional information about this particular image in the comments below the post: To clarify, the city of Tyler did not post this. I am an individual. BLM was not brought up in the conversation at all from the interviewer standpoint. The question I asked was, \u201cIf you could give a group of 10,000 people a piece of advice, what would you tell them?\u201d He responded with, \u201cStop fighting\u201d and then I asked him to elaborate in a very non-leading fashion as I normally do. With that being said, If I were to come across anyone that felt very strongly in one direction or the other, I would have no problem posting their comments as they state them. Everyone gets a chance. This just happened to be what he wanted to talk about. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "7871",
+   "_score": 17.179317,
+   "_source": {
+    "title": "Obama Calls for Black Lives Matter Memorial",
+    "url": "https://www.snopes.com/fact-check/obama-black-lives-matter-memorial/",
+    "date_published": "17 July 2016",
+    "rating": "False",
+    "author_name": "David Emery",
+    "category": "Junk News",
+    "tags": [
+     "barack obama",
+     "black lives matter",
+     "fake news"
+    ],
+    "claim": "President Obama issued an executive order calling for the creation of a Black Lives Matter memorial wall in Washington, DC.",
+    "content": " On 16 July 2016, an article circulated via social media asserting that President Obama had signed an executive order calling the erection of a memorial wall for black victims of police violence: What do you think about President Obama\u2019s new executive order that calls for a new memorial to be built honoring the Black victims of Police murder in The United States? The new \u2018Black Lives Matter Wall\u2019 will be in Washington D.C. and will be a virtual clone of the already existing Black Wall Memorial honoring veterans of the Vietnam War. \u201cOn every front there are clear answers out there\u201d, Obama said in a Friday news conference,\u201d that can make this country stronger, but we\u2019re going to break through the fear and the frustration Black people are feeling.I believe this new memorial will honor the victims of racist Police murderers.\u201d The report was untrue, however. President Obama signed no such order, nor has he advocated the creation of such a memorial in any public address. The poorly written, grammatically challenged article appears to have originated on a satirical web site called Fox News the FB Page, which also contains reports to the effect that Bernie Sanders supporters committed mass suicide by drinking GMO-free Kool-Aid after he pledged support to rival Hillary Clinton, and President Obama signed an executive order \u201cto take over America,\u201d etc. There is no connection between the site (the URL of which is www.tdtalliance.com) and the actual Fox News Channel or its web site. Our best guess is that the article was written with comedic intent, though we were unable to detect the presence of any actual humor on the page. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "10366",
+   "_score": 17.179317,
+   "_source": {
+    "title": "Communists Secretly Organizing \u2018Black Lives Matter\u2019 Protests?",
+    "url": "https://www.snopes.com/fact-check/red-herring-scare/",
+    "date_published": "",
+    "author_name": "David Mikkelson",
+    "category": "Uncategorized",
+    "tags": [
+     "ASP Article",
+     "Audi R8"
+    ],
+    "claim": "",
+    "content": ""
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "1155",
+   "_score": 17.175447,
+   "_source": {
+    "title": "No, Black Lives Matter Didn\u2019t Threaten To \u2018Assassinate White Families\u2019",
+    "url": "https://www.snopes.com/fact-check/black-lives-matter-hoax/",
+    "date_published": "3 June 2020",
+    "rating": "False",
+    "author_name": "Bethania Palma",
+    "category": "Politics",
+    "tags": [
+     "George Floyd"
+    ],
+    "claim": "Black Lives Matter activists threatened in social media posts to assassinate white families.",
+    "content": " Rumors are surging in the wake of George Floyd\u2019s death and resulting protests against police violence and racial injustice in the United States. Stay informed. Read our special coverage, contribute to support our mission, and submit any tips or claims you see here.  In late May 2020, social media users shared images of a block of text that many were led to believe was a threat issued by Black Lives Matter activists:  Images of the post circulated amid ongoing U.S. and international protests over the death of George Floyd. He was an unarmed African American whose in-custody death sparked widespread outrage after video surfaced of former Minneapolis police officer Derek Chauvin kneeling on Floyd\u2019s neck until he lost consciousness. The post is clearly a hoax. The account name that appears in the text \u2014 \u201cBlacklivess Matter\u201d \u2014 is a misspelled version of \u201cBlack Lives Matter,\u201d but there is no Black Lives Matter logo in the profile picture, and the real activist organization does not group the words as seen in the image. Furthermore, Black Lives Matter is a civil rights activist organization, not a criminal enterprise set out to commit premeditated murder. We reached out to Facebook, and a spokesperson for Facebook confirmed that the account that posted the threat was removed for being fake. No evidence exists that the post is anything other than a hoax perpetrated to increase fear and confusion during a tumultuous national event. Because it was not posted by a legitimate Black Lives Matter account, was removed by Facebook for being fake, and appears to be nothing but inflammatory spam meant to cause fear and panic, we rate this claim \u201cFalse.\u201d "
+   }
+  }
+ ]
+}

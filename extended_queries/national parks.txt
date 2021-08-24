@@ -1,0 +1,209 @@
+{
+ "max_score": 29.332613,
+ "hits": [
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "6635",
+   "_score": 29.332613,
+   "_source": {
+    "title": "National Park Service Twitter Account Shut Down After Anti-Trump Retweets",
+    "url": "https://www.snopes.com/fact-check/nps-twitter-account-shut-down/",
+    "date_published": "21 January 2017",
+    "rating": "True",
+    "author_name": "David Emery",
+    "category": "Politics",
+    "tags": [
+     "department of interior",
+     "donald trump",
+     "national park service",
+     "trump inauguration",
+     "twitter"
+    ],
+    "claim": "Official Department of Interior Twitter accounts were temporarily deactivated after the National Park Service account was used to retweet negative information about the incoming Trump administration.",
+    "content": " On 20 January 2017, the day Donald J. Trump took office as President of the United States, news outlets posted photos purporting to compare the size of the crowd attending Trump\u2019s inauguration to that attending Barack Obama\u2019s first inaugural ceremony in 2009. Although there was not yet an official count of how many people actually showed up at the Trump event, so an accurate numerical comparison couldn\u2019t be made, the photos did appear to show a significant disparity between the sizes of the crowds, with far fewer in attendance at Trump\u2019s inauguration than Obama\u2019s. For obvious reasons, the side-by-side images were relished by anti-Trump factions, who shared and retweeted them all day long. There was one instance in particular wherein a retweet of the photos caught the attention of incoming Trump officials, who deemed them inappropriate \u2014 so inappropriate, in fact, that the Department of Interior promptly deactivated every one of its Twitter accounts in response. The offending retweet (since deleted) appeared on the National Park Service (@NatlParkService) Twitter feed:          This was followed by another retweet (since deleted) of a text suggesting that the Trump administration had scrubbed information from the White House web site for ideological reasons:  All of which caused a small uproar on Twitter, where some users joked that the National Park Service had \u201cgone rogue,\u201d others wondered about the legality of the retweets, and still others defended their content as \u201cfactual, not anti-Trump.\u201d Later that day, the NPS Twitter account, along with all the other Department of Interior accounts, went silent. According to a report by CNN, the order came down from a \u201ccareer staffer\u201d at the department:  After the retweet began to get attention, a career staffer at the Interior Department instructed employees that the \u201cnew administration has said that the department and all bureau are not supposed to tweet this weekend and wait for guidance until Monday.\u201d  The message continued, \u201cPlease make sure that any scheduled tweets are no longer scheduled.\u201d  In statements to The Washington Post, a National Park Service spokesperson explained why the action was taken and said it would only be temporary: Thomas Crosson, a spokesman for the National Park Service, the Interior agency whose employee retweeted the offending tweets, said the action was \u201cinconsistent with the agency\u2019s approach to engaging the public through social media.\u201d \u201cThe Department of Interior\u2019s communications team determined that it was important to stand down Twitter activity across the Department temporarily, except in the case of public safety,\u201d Crosson said in an email. \u201cNow that social media guidance has been clarified, the Department and its bureaus should resume Twitter engagement as normal this weekend.\u201d With one exception, Crosson said: No social media posts on the policy priorities of the new Interior secretary, because Trump nominee Rep. Ryan Zinke (R-Mont.) has not yet been confirmed. Indeed, by the next morning, U.S. Department of Interior Twitter accounts went online again, commencing with a note of contrition tweeted by @NatlParkService:  We regret the mistaken RTs from our account yesterday and look forward to continuing to share the beauty and history of our parks with you pic.twitter.com/mctNNvlrmv \u2014 NationalParkService (@NatlParkService) January 21, 2017 There has been no announcement regarding who may have been responsible for the retweets, or whether disciplinary action would be taken. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "3325",
+   "_score": 29.248713,
+   "_source": {
+    "title": "Did Visitors to Joshua Tree National Park Cut Down Trees During the Government Shutdown?",
+    "url": "https://www.snopes.com/fact-check/joshua-tree-shutdown/",
+    "date_published": "11 January 2019",
+    "rating": "True",
+    "author_name": "Dan MacGuill",
+    "category": "Politics",
+    "tags": [
+     "federal government shutdown",
+     "national parks",
+     "the other 98%"
+    ],
+    "claim": "Some visitors to Joshua Tree National Park cut down trees and perpetrated other acts of vandalism in January 2019 while staff, whose numbers were diminished due to the federal government shutdown, attempted to monitor visitor behavior. ",
+    "content": " The U.S. federal government shutdown, which entered its 21st day on 11 January 2019, had a significant negative impact on one institution of American life in particular: the national parks. With staff cut back to a minimum, monuments, forests, and wilderness areas around the country saw a buildup of trash and human waste, and volunteer groups were required to intervene in an effort to perform whatever maintenance and cleaning they could. In January, it was widely reported that three deaths had occurred in national parks during the shutdown, although it\u2019s not at all clear that those deaths would have been prevented if the parks in question had been fully staffed. On 10 January, \u201cThe Other 98%\u201d Facebook page linked vandalism at the iconic Joshua Tree National Park in California to a lack of staff caused by the ongoing shutdown: \u201cDuring the shutdown, with Joshua Tree National Park open but no staff on duty, visitors cut down Joshua trees so they could drive into sensitive areas where vehicles are banned. The destroyed trees are irreplaceable; they take sixty years to mature and live for more than 500 years.\u201d          The key claim in the widely-shared meme, that staffing shortages contributed to the destruction of some of the iconic eponymous Yucca brevifolia trees at Joshua Tree National Park, is accurate, according to facts confirmed and descriptions provided by park management. Although it wasn\u2019t correct to say that \u201cno staff\u201d were on duty during the shutdown, staff numbers were very heavily diminished.  On 8 January, the National Park Service (NPS) announced that they would be temporarily closing Joshua Tree \u201cto allow park staff to address sanitation, safety, and resource protection issues in the park that have arisen during the lapse in appropriations\u201d: Park officials are identifying the additional staff and resources needed to address immediate maintenance and sanitation issues and will utilize funds from the park fees to address those issues per the recently updated National Park Service contingency plan during a lapse in appropriations. While the vast majority of those who visit Joshua Tree National Park do so in a responsible manner, there have been incidents of new roads being created by motorists and the destruction of Joshua trees in recent days that have precipitated the closure. Law enforcement rangers will continue to patrol the park and enforce the closure until park staff complete the necessary cleanup and park protection measures. In an interview with the National Parks Traveller website (which published a photograph of one of the downed trees), Joshua Tree National Park Superintendent David Smith gave further details on the vandalism perpetrated in the park in early January: \u201cThere are about a dozen instances of extensive vehicle traffic off roads and in some cases into wilderness,\u201d Smith replied when asked about the damage in the park. \u201cWe have two new roads that were created inside the park. We had destruction of government property with the cutting of chains and locks for people to access campgrounds. We\u2019ve never seen this level of out-of-bounds camping. Every day use area was occupied every evening. Joshua trees were actually cut down in order to make new roads.\u201d According to National Parks Traveller, Smith also drew a clear connection between the significant cut in staff numbers during the shutdown and the ability of park staff to monitor visitor behavior and prevent the kind of damage seen in recent days: Monitoring a park the size of Joshua Tree, which covers 1,235 square miles and has about 20 different entrances due to dirt roads that ring the park, is extremely difficult with just eight law enforcement rangers. Were it not for the shutdown, there would have been more than 100 other \u201csets of eyes\u201d to help keep an eye on visitor behavior, the superintendent said. \u201cWe have 120 employees in the park, plus 30 associates that work for Great Basin Institute, the majority of whom are in the park every day,\u201d he said. \u201cThose are the folks that are in the campgrounds and in the day-use areas and doing science. So you\u2019ve got 100 sets of eyes in the park every day with folks contacting visitors.\u201d The following day, 9 January, the National Park Service announced a reversal of the decision to temporarily close Joshua Tree, writing that management, acting on a controversial directive from acting Interior Secretary David Bernhardt, would use funds derived from visitor fees in order to bring back the staff needed to keep the park open: By immediately utilizing revenue generated by recreation fees, National Park Service officials have been able to avert a temporary closure of Joshua Tree National Park that had been previously scheduled for January 10. In addition, recently closed areas of the park will once again be accessible to visitors starting January 10. Some visitor services, including campgrounds and entrance stations, will reopen utilizing recreation fee revenue. National Park Service officials have determined that by using Federal Land and Recreation Enhancement funds to immediately bring back park maintenance crews to address sanitation issues, the park will be able to maintain some visitor services, including reopening the campgrounds. Crucially, the announcement again drew a direct link between diminished staff numbers caused by the government shutdown, and the earlier destruction of trees at Joshua Tree National Park: The park will also bring on additional staff to ensure the protection of park resources and mitigate some of the damage that has occurred during the lapse of appropriations. [Emphasis added.] "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "14839",
+   "_score": 26.579876,
+   "_source": {
+    "title": "Questions Asked of Park Rangers",
+    "url": "https://www.snopes.com/fact-check/questions-asked-park-rangers/",
+    "date_published": "13 December 1999",
+    "rating": "Legend",
+    "author_name": "David Mikkelson",
+    "category": "Humor",
+    "tags": [
+     "national park service",
+     "national parks",
+     "park rangers",
+     "Qwazy Questions",
+     "yellowstone national park"
+    ],
+    "claim": "",
+    "content": ""
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "5190",
+   "_score": 26.166546,
+   "_source": {
+    "title": "Is Shenandoah National Park Selling Trump Wines?",
+    "url": "https://www.snopes.com/fact-check/national-park-trump-wines/",
+    "date_published": "23 November 2017",
+    "rating": "Mixture",
+    "author_name": "Bethania Palma",
+    "category": "Politics",
+    "tags": [
+     "donald trump",
+     "national park service"
+    ],
+    "claim": "The U.S. National Park Service is selling Trump-branded wines at Shenandoah National Park in Virginia.",
+    "content": " On 21 November 2017, the energy and environment-oriented publication E&amp;E News reported that Trump-branded wines were being sold at a gift shop in Virginia\u2019s Shenandoah National Park. Bill Snape, a lawyer representing an environmental organization that is suing President Donald Trump, had tipped off the publication about the situation: Looking for some Trump wine for the holiday? Head no farther than Shenandoah National Park, where you can pick it up at the Skyland Resort. That\u2019s according to Bill Snape, senior counsel at the Center for Biological Diversity, who wants to get to the bottom of why it\u2019s sold there. Although it\u2019s true that Trump Winery products were being sold at a gift shop located at a national park in Virginia, the store is operated by Delaware North, a private company under contract to provide \u201clodging, food and beverage, retail services and activities\u201d to park visitors. Furthermore, according to Delaware North spokeswoman Victoria Hong, the company had been selling wines produced by that particular vineyard since before the Trump Winery acquired it: Wherever we operate across the country, we support local and regional producers and farmers by offering their products in our retail stores. It\u2019s our decision as the concessioner to determine which local and regional products to buy and offer park visitors. At Shenandoah National Park we offer wines from several different Virginia vintners. Because they are locally produced, we had also offered wines from the Trump Winery and its predecessor, Kluge Estate, prior to September. This was only at Shenandoah, where it is a local product, and not at any other parks. The National Park Service did not request or require us to carry it. Donald Trump purchased the winery, which is located in Charlottesville, Virginia, from Patricia Kluge in 2011. Trump\u2019s middle son, Eric, is currently the company\u2019s president. Bill Snape, an attorney with the environmental group Center for Biological Diversity told The Hill that he felt the wine sales at the park \u201cabsolutely\u201d raised conflict of interest concerns. However, Mark Leach, a manager for the Delaware North stores at Shenandoah told that publication that save for a purchase of ros\u00e9 in late Spring 2017, the company hasn\u2019t acquired any more Trump wine to sell since 2016 because they want to stay out of politics. But the controversy over Trump-branded wine\u2019s placement in government-related shops, regardless of how long it\u2019s been sold there or why, drives concerns about various ethics issues that have plagued President Trump, who is a businessman with a multitude of real estate and commercial deals branded with his name. President Trump is being sued by multiple parties over allegations of conflicts of interest and violations of the Emoluments Clause of the U.S. Constitution, which bars U.S. lawmakers from receiving foreign gifts. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "5573",
+   "_score": 26.012169,
+   "_source": {
+    "title": "Did a Law Professor Assert That a Solar Eclipse Was \u2018Racist\u2019?",
+    "url": "https://www.snopes.com/fact-check/eclipse-racist/",
+    "date_published": "21 August 2017",
+    "rating": "False",
+    "author_name": "Dan MacGuill",
+    "category": "Politics",
+    "tags": [
+     "conservative tribune",
+     "daily caller"
+    ],
+    "claim": "Law professor Alice Ristroph wrote in the Atlantic magazine that the 2017 solar eclipse, its path, or those who viewed it, were \"racist.\"",
+    "content": " In August 2017, two right-wing web sites falsely reported that a law professor had written that a 2017 solar eclipse was \u201cracist.\u201d First, the Daily Caller published an article headlined \u201cThe Eclipse Is Racist Because It Fails to Affect Enough Black People, the Atlantic Suggests,\u201d stating that \u201cThe Atlantic, a once-great magazine, has determined that the total eclipse of the sun due to occur on Monday will fail to affect enough black people.\u201d The following day, the Conservative Tribune asserted in a similar vein: \u201cAre you looking forward to Monday\u2019s solar eclipse \u2014 the first full eclipse to hit the United States in decades? You filthy, filthy racist. That\u2019s at least the take of Brooklyn Law School professor Alice Ristroph, who used a staggering 4,544 words in The Atlantic to explaining why the phenomenon of the moon blocking the sun just wasn\u2019t diverse enough for her tastes.\u201d Both web sites were referring to an essay by Alice Ristroph, a professor at Brooklyn Law School in New York. Her essay, originally published in Democracy under the title \u201cBlackout,\u201d and republished by the Atlantic on 18 August 2017, did not state \u2014 or even imply \u2014 that the eclipse itself or the path of its totality were \u201cracist.\u201d Nor did Ristroph say or imply that the eclipse would not be visible to \u201cenough\u201d black people, or that those who chose to view the eclipse were \u201cracists.\u201d Instead, Ristroph penned a lyric essay that used the path of the eclipse as a literary mechanism to explore the United States\u2019 troubled racial history of \u201ctotality\u201d and \u201cdivision.\u201d In noting that the path of the eclipse would cross sections of the United States in which there lived \u201calmost no black people,\u201d Ristroph was clear to state that this circumstance was a coincidence (from an astronomical standpoint) but used that fact as an opportunity to examine the historical reasons why some areas of America remain predominantly non-black. Along the way, she discussed different visions of \u201ctotality,\u201d such as Oregon\u2019s original goal of being an all-white state, and General William Tecumseh Sherman\u2019s vision of \u201ctotal war\u201d during the U.S. Civil War.         At no point did Ristroph use the word \u201cracist,\u201d and she explicitly made the (blindingly obvious) point that the eclipse itself did not harbor any racial prejudice:  It has been dubbed the Great American Eclipse, and along most of its path, there live almost no black people. Presumably, this is not explained by the implicit bias of the solar system. It is a matter of population density, and more specifically geographic variations in population density by race, for which the sun and the moon cannot be held responsible \u2026 The shadow of the moon doesn\u2019t care where it falls or who lives below.  In 2015, the Daily Caller similarly prevaricated about a New York Times opinion piece on the subject of low visitation rates at national parks by minorities.  Under the headline \u201cNow America\u2019s National Parks Are Racist,\u201d the Daily Caller wrote:  The cozily white opinion pages of The New York Times attacked the National Park Service and America\u2019s majestic national parks as racist because way too many white people visit them. Also, the visitors are old. And about 80 percent of the park service\u2019s employees are white. Thus, \u201cminorities are unwelcome.\u201d  One again, the Daily Caller completely misrepresented the thrust of a race-related discussion.  The New York Times article in question, by Glenn Nelson, did not decry either America\u2019s national parks or the National Park Service as being \u201cracist,\u201d nor did that word appear anywhere in Nelson\u2019s piece.   The gist of Nelson\u2019s article was that attendance at U.S. national parks by minorities was comparatively low, that a primary reason for that phenomenon was unfamiliarity with national parks among minorities, and that the National Park Service should try to encourage broader visitation through outreach aimed at clearing up such unfamiliarity. Nelson did not assert, as the Daily Caller misrepresented, that \u201cminorities are unwelcome\u201d at U.S. national parks.  In fact, he argued the opposite \u2014 that the National Park Service should attempt to dispel the misperception among minorities that they were not welcome at national parks:  [M]any minorities say they know little about the nation\u2019s parks or what to expect when visiting them. In the 2011 park service survey, nonwhites were more than three times as likely as whites to say that the parks provided poor service and were not safe to visit. And those responses were from nonvisitors, which means that perceptions had congealed into reality among what should be an important constituency for the parks. We need to demolish the notion that the national parks and the rest of nature are an exclusive club where minorities are unwelcome. The park service[\u2018s] \u2026 outreach should be tailored to minorities and delivered where they log in, follow, Tweet, view or listen. The park service needs to shout to minorities from its iconic mountaintops, \u201cWe want you here!\u201d  On 12 January 2017, President Barack Obama took up that suggestion, issuing a memorandum on \u201cDiversity and Inclusion in Our National Parks\u201d that directed federal agencies (among other actions) to engage in conducting \u201cactive outreach to diverse populations\u201d and \u201cidentifying and making improvements to existing programs to increase visitation and access by diverse populations\u201d \u2014 \u201cparticularly minority, low-income, and disabled populations and tribal communities.\u201d "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "259",
+   "_score": 25.999123,
+   "_source": {
+    "title": "Do Veterans Get Free Access to National Parks?",
+    "url": "https://www.snopes.com/fact-check/veterans-national-parks-lifetime/",
+    "date_published": "11 November 2020",
+    "rating": "True",
+    "author_name": "Bethania Palma",
+    "category": "Holidays",
+    "claim": "Veterans and Gold Star families get free access to national parks starting on Veterans Day 2020.",
+    "content": " On Veterans Day 2020, the U.S. National Park Service announced that as of Nov. 11, 2020, veterans and Gold Star families will have access to all national parks, free of charge. The announcement from the park service states that going forward, \u201cGold Star Families and U.S. military veterans receive free access to more than 2,000 federal recreation areas, including national parks, wildlife refuges and forests. The free access program is a way to thank America\u2019s veterans and Gold Star families for their support of our country and to encourage them to explore recreational opportunities on their public lands and waters.\u201d  To commemorate #VeteransDay and honor those who have served in the military, @SecBernhardt announced that Gold Star Families and Veterans of the U.S. Armed Forces will have free entrance to national parks forever. Learn more at https://t.co/AzFJbBEOwv #DOIDelivers pic.twitter.com/I43ZWVuW1k \u2014 National Park Service (@NatlParkService) November 10, 2020  Any veteran of the U.S. Armed Forces, including the National Guard and Reserves, can get free access to national parks by presenting certain identification. Their families benefit as well, per NPR: \u201cFree access is for the veteran or the holder of the Gold Star Family voucher as well as travelling companions who are occupants of a single, private non-commercial vehicle OR the veteran or voucher-holder and three persons (16 and older) where per person fees are charged. The voucher is non-transferrable and void if altered.\u201d "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "15449",
+   "_score": 22.962152,
+   "_source": {
+    "title": "Have Disney Character Actors Molested Park Guests?",
+    "url": "https://www.snopes.com/fact-check/the-three-little-molesters/",
+    "date_published": "11 August 1996",
+    "rating": "Mixture",
+    "author_name": "David Mikkelson",
+    "category": "Disney",
+    "tags": [
+     "disney parks",
+     "sexual harassment",
+     "Theme Parks"
+    ],
+    "claim": "Costumed cast members have been accused of molesting Disney theme park guests.",
+    "content": " Legend: &nbsp; Costumed cast members molest Disney theme park guests.--> We expect the costumed characters who roam the grounds at Disney theme parks to be nothing less than kind and cuddly all the time.  Even the not-so-cute \u201cevil\u201d characters (e.g., Jafar, Captain Hook) are supposed to exhibit nothing but boundless patience and good cheer in accommodating guests and posing for endless streams of souvenir photographs, however much they may be pushed, pulled, punched, taunted, or otherwise abused by some of Disney\u2019s less well-behaved clientele.  It\u2019s all too easy for some park visitors to lose themselves in the fantasy and forget that those figures are not really indestructible cartoon characters but flesh-and-blood people laboring inside of hot, heavy, cumbersome costumes.  These cast members generally exhibit nothing but good cheer while working under difficult circumstances for relatively little pay, but should any of them ever lapse and momentarily display the very human reactions of frustration or exasperation, you can bet that someone will complain about it. --> Sometimes the complaints lodged are quite serious, with guests maintaining that a costumed cast member was not just rude or uncooperative, but acting in a hostile and physically abusive manner \u2014 to the extent that some complaints have resulted in civil or criminal proceedings.  In most cases, though, the defense that character costumes so limit cast members\u2019 peripheral vision and body movements that the alleged actions would be impossible or extremely difficult to perform intentionally wins out. In 1981, for example, Disneyland was the target of a lawsuit alleging that, three years earlier, a nine-year-old girl had received a beating delivered by one Winnie-the-Pooh.  The lovable bear had supposedly slapped her in the face, resulting in bruising, recurring headaches, and possible brain damage.  As writer David Koenig described the ensuing trial:  [Disney attorney W. Mike] McCray\u2019s first witness was Robert Hill, the actor who portrayed Pooh bear at the park that day. Hill testified that while in costume, his vision and movements are severely restricted. The girl, then nine years old, was tugging at him from behind and, in turning to see who it was, he accidentally struck her with an ear. \u201cWe\u2019re trained not to retaliate,\u201d he said. McCray then asked for a brief recess. After jurors returned to their seats, Hill reentered the courtroom in costume. Taking the witness stand, Pooh answered the lawyer\u2019s questions by nodding his head and stomping his feet. \u201cWhat do you do at Disneyland?\u201d McCray asked. Pooh got up and did a jig down the aisle. The courtroom audience burst into laughter. \u201cHave the record show that he\u2019s doing a two-step,\u201d noted the judge. By calling Pooh to the stand the attorney was able to present a lovable, sympathetic witness who wouldn\u2019t \u2014 and couldn\u2019t \u2014 hurt anyone. The bear demonstrated that he couldn\u2019t have slapped the girl in the face as she claimed.  The costume\u2019s arms were too low to the ground. The jury took just 21 minutes to acquit Pooh on all charges.  In another civil case, in 1976 a woman filed a lawsuit against Disneyland and sought $150,000 in damages for assault and battery, false imprisonment, and humiliation, asserting that a park employee wearing a pig costume had run up to her near the \u201cIt\u2019s a Small World\u201d attraction, grabbed her, and fondled her breasts while squealing \u201cMommy!  Mommy!\u201d \u2014 an experience that had supposedly left her so upset that she gained 50 pounds.  That complaint never saw the inside of a courtroom, as the plaintiff dropped her case after Disney\u2019s showed her a photo of the pig costume which revealed that the outfit had no operable arms, only stubs. In 2004, a Disney cast member was actually prosecuted on criminal charges. Michael C. Chartrand, a Walt Disney World employee who worked inside a Tigger costume, was the subject of a police investigation after a 13-year-old girl complained that he had fondled her breast while she posed for a photo with him and her mother in WDW\u2019s Magic Kingdom park on 21 February 2004.  (The girl\u2019s mother maintained that she had been similarly fondled, but her allegation was not an element of the criminal case.)  Mr. Chartrand was arrested in April 2004 and charged with lewd and lascivious molestation of a child and simple battery; by the following week 24 more complaints about him had been lodged with authorities.  (All of the other complainants either lacked sufficient evidence to press charges or were unwilling to do so, however.) Mr. Chartrand declined a plea bargain and took his case to trial, and in August 2004 a jury deliberated for less than an hour before returning a verdict of \u201cnot guilty\u201d on the charge of lewd and lascivious molestation.  As part of his closing argument, Mr. Chartrand\u2019s attorney, Jeffrey Kaufman (who himself worked for Disney as a costumed character), donned the Tigger costume to demonstrate to jurors the difficulty of maneuvering and seeing while inside in the outfit.  "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "170",
+   "_score": 22.478935,
+   "_source": {
+    "title": "Was This $300K Bathroom Voted Best in America?",
+    "url": "https://www.snopes.com/fact-check/best-bathroom-in-america/",
+    "date_published": "22 November 2020",
+    "rating": "True",
+    "author_name": "Madison Dapcevich",
+    "category": "Entertainment",
+    "claim": "A self-cleaning public bathroom, which reportedly came at a price tag of more than $300,000, was awarded \u201cAmerica\u2019s Best Restroom\u201d in November 2020.",
+    "content": " A Colorado public toilet \u2014 with a price tag that inches close to the 2020 U.S. average home price \u2014 was crowned \u201cAmerica\u2019s Best Restroom\u201d in 2020. The bathroom at Bancroft Park in Colorado Springs, Colorado, reportedly cost the city more than $301,000 to renovate, reported local Fox News affiliate KXRM-TV. A video of its self-cleaning features went viral, racking up nearly 3 million views in July 2020 after TikTok user @yetitears shared a video to the social media platform.   @yetitears  $300k TOILET! Don\u2019t let this flop! \ud83d\ude2d #summerproject #hiddengems #fyp #viral  \u266c HIGH SPEED BATHROOM \u2013 Yeti Tears     Bancroft Park\u2019s self-cleaning restroom holds three toilet areas, including an option compliant with the Americans with Disabilities Act, and each comes with green, red, and yellow lights that indicate availability. The restrooms automatically clean themselves after every 30 uses and each come equipped with soap, water, toilet paper, and a dryer \u2014 all of which are activated by the wave of a hand. The smart toilet will even notify a park maintenance supervisor when toilet paper or other supplies are running low.         And on Nov. 19., the Cincinnati-based restroom supply company and contest sponsor Cintas Corporation announced Bancroft Park\u2019s self-cleaning toilets as \u201cAmerica\u2019s Best Restroom.\u201d \u201cWe\u2019re very proud to win this award since opening these new restrooms just a few short months ago,\u201d said Colorado Springs Parks recreation and cultural services director Karen Palus in a news release. \u201cThe amount of recognition we\u2019ve received is a testament to the value people place in hygienic and memorable public restrooms. We\u2019re grateful for everyone who voted for our facility.\u201d Bancroft Park not only won the title for the best toilet in the country, but its prize also included a Cintas UltraClean\u00ae restroom cleaning service and $2,500 in Cintas products and services for restroom cleaning. In its 19th year, the 2020 America\u2019s Best Restroom announced its ten finalists in a Sept. 24 news release. Contenders ranged from the Dallas Fort-Worth Airport in Texas to the Gaslight Bar &amp; Grill in Cincinnati, Ohio. \u201cThis year\u2019s contest recognizes a wide range of finalists, each offering a one-of-a-kind restroom experience with the latest technology or imaginative decor,\u201d said Cintas Marketing Manager Sean Mulcahey. \u201cAs the COVID-19 pandemic has brought the importance of clean restrooms to the forefront, we\u2019re proud to spotlight these unique and well-maintained restrooms that provide comfortable spaces for guests.\u201d The public is invited to nominate the 2021 best restroom here. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "207",
+   "_score": 21.384907,
+   "_source": {
+    "title": "Were Canadians Warned Not to Let Moose Lick Their Cars?",
+    "url": "https://www.snopes.com/fact-check/canadians-moose-lick-cars/",
+    "date_published": "16 November 2020",
+    "rating": "True",
+    "author_name": "Dan Evon",
+    "category": "Critter Country",
+    "tags": [
+     "Editor's Picks"
+    ],
+    "claim": "Photographs show a road traffic warning sign that reads: \"Do Not Let Moose Lick Your Car.\"",
+    "content": " On Nov. 14, 2020, a set of photographs supposedly showing a traffic sign in Canada warning passersby to \u201cnot let moose lick your car\u201d went viral on social media: These pictures stirred up some questions. Are these signs real? How exactly do you stop a moose from doing what a moose wants to do? And, just how widespread is the moose-licking-car problem in Canada? First of all, these pictures are real. This sign was spotted along Maligne Lake Road in Jasper, Alberta, Canada. And while the sign may seem a bit humorous, it addresses a genuine problem in the National Parks of Canada.  Moose, apparently, are somewhat obsessed with salt. Jue Urie, the owner-operator of the Jasper Tour Company, told the CBC:  \u201cRoad salt is kind of like crack [to moose].\u201d In the winter when roads are salted to prevent them from freezing, moose have figured out that the salt can be easily accessed on the front bumpers of parked cars. So when people stop to look at a moose, or when cars are simply parked in the area, these large animals can get dangerously close to the vehicles in order to get a taste of salt.          Fitzhugh.ca, a news website serving the Jasper area, talked to Jasper National Park spokesman Steve Young about the issue. Young said:  \u201c(This) started as an occasional issue a few years ago and now is too common \u2026 People are getting far too close, and it\u2019s perpetuated by their (the moose\u2019s) obsession with salt, accessing the vehicles.\u201d Here\u2019s a video news report from 2016 about moose licking cars in Alberta, Canada:      In 2016, during a similar spate of salt-licking moose incidents, Alberta Parks issued a warning to visitors to not let moose lick their cars. That warning had some specific strategies to deter this practice, such as honking the car horn, as well as some techniques to avoid, such as \u201cdo not attempt to push the moose away from your vehicle.\u201d This, of course, is not a problem specific to Canada. In 2018, the Buckrail, a news outlet from Jackson Hole, Wyoming, reported that U.S. National Parks officials were issuing similar warnings to visitors. Denise Germann, parks spokesperson, said: \u201cWe highly discourage the practice of allowing wildlife like moose to lick salt off vehicles.\u201d "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "493",
+   "_score": 21.213531,
+   "_source": {
+    "title": "Did Disney Announce It Was to Open a Theme Park in Escanaba, Michigan?",
+    "url": "https://www.snopes.com/fact-check/disney-park-escanaba/",
+    "date_published": "9 July 2018",
+    "rating": "False",
+    "author_name": "Dan MacGuill",
+    "category": "Disney",
+    "tags": [
+     "Disney",
+     "disney parks",
+     "fake news",
+     "michigan",
+     "The Walt Disney Company",
+     "Theme Parks",
+     "Walt Disney"
+    ],
+    "claim": "In July 2018, a Disney spokesperson indicated that the company was planning to open a theme park in Escanaba, Michigan.",
+    "content": " In the summer of 2018, a relatively obscure satirical web site managed to create an online buzz and trick some readers into believing that the Walt Disney Company was about to begin work on a new theme park in a small city in Michigan\u2019s Upper Peninsula.  Uncle Walt\u2019s Insider, which publishes Disney and amusement park-themed fake news and satire, reported on 2 July: Following the recent discovery of a \u201cHidden Mickey\u201d in a bowl of breakfast cereal, Disney has announced that they will be building a theme park just outside of Escanaba, Michigan. Escanaba? Seriously? Escanaba? Seriously. They said Escanaba. \u2026 We caught up with Disney spokesperson Jun Disney (no relation) for the backstory. \u201cAfter the discovery of the Hidden Mickey in the Corn Flakes, we took that as a sign that we really should take a closer look at Escanaba. It turns out that it (Escanaba) is an amazingly scenic town in Michigan\u2019s Upper Peninsula. We went up there, and we were blown away. The warm waters of Lake Michigan, the delicious pasties, and the friendliness of the Yuppers, it all makes sense.\u201d  The story is a fabrication. There is no Disney spokesperson named \u201cJun Disney,\u201d and the incident described as a motivating factor for the company\u2019s purported decision \u2014 an apparition of Mickey Mouse in a bowl of cereal in Escanaba \u2014 was in fact another fabrication from the same web site.  Uncle Walt\u2019s Insider is replete with tongue-in-cheek allusions to its satirical nature (staff biographies mention a founder named \u201cUncle Walt,\u201d born in 1901, like Walt Disney himself; and the home page features a fake quote from Uncle Walt which reads \u201cThere\u2019s so much misinformation out there. We\u2019re just doing what we can to help.\u201d) Setting aside the clearly satirical intentions behind the web site and its articles, there is no corroboration whatsoever \u2014 even in the form of unofficial rumors \u2014 for the claim that Disney is planning to build a new theme park in Escanaba, Michigan.  "
+   }
+  }
+ ]
+}

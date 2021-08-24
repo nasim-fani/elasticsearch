@@ -1,0 +1,198 @@
+{
+ "max_score": 7.7387624,
+ "hits": [
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "4959",
+   "_score": 7.7387624,
+   "_source": {
+    "title": "Does Congress Get Paid While Military Personnel Do Not During a Government Shutdown?",
+    "url": "https://www.snopes.com/fact-check/congress-paid-military-not-shutdown/",
+    "date_published": "22 January 2018",
+    "rating": "True",
+    "author_name": "David Emery",
+    "category": "Military",
+    "tags": [
+     "federal government shutdown",
+     "government shutdown",
+     "military pay"
+    ],
+    "claim": "Members of Congress continue to get paid but military personnel do not during a U.S. government shutdown.",
+    "content": " Much of the United States government ceased operations at midnight on 20 January 2018 after Congress failed to pass a short-term funding bill to keep the government going, until a permanent appropriations bill for fiscal year 2018 could be hammered out. A government shutdown means all but the most essential operations come to a halt and many federal employees are furloughed and most stop receiving paychecks until Congress breaks its deadlock and funding is restored. Along with questions about mail delivery, Social Security payments, and whether or not national parks would be open through the shutdown, some readers wanted to know if members of the military are still on duty, and whether they get paid.  Some readers put the question this way: \u201cIs it true that members of Congress still get paid during a government shutdown, while military personnel do not?\u201d The short answer to the question is yes. Unlike most federal workers and members of the military, whose pay must be appropriated annually, the salaries of House and Senate members are permanently authorized in the U.S. Constitution.         With respect to the military, an U.S. Department of Defense (DOD) memo issued on 18 January and signed by Deputy Defense Secretary Patrick M. Shanahan: The Department will, of course, continue to prosecute the war in Afghanistan and ongoing operations against al-Qaeda and the Islamic State of Iraq and Syria, including preparation of forces for deployment into those conflicts. The Department must, as well, continue many other operations necessary for the safety of human life or the protection of property (a copy of military operations necessary for national security will be supplied separately). These activities will be \u201cexcepted\u201d from the effects of a lapse in appropriations: all other activities would need to be shut down in an orderly and deliberate fashion, including \u2013 with few exceptions \u2013 the cessation of temporary duty travel. All military personnel performing active duty will continue in a normal duty status regardless of their affiliation with excepted or non-excepted activities. Military personnel will not be paid until such time as Congress makes appropriated funds available to compensate them for this period of service. Civilian personnel who are necessary to carry out or support excepted activities will also continue in normal duty status and also will not be paid until Congress makes appropriated funds available. Civilian employees paid from lapsed appropriations and who are not necessary to carry out or support excepted activities will be furloughed, i.e., placed in a non-work, non-pay status. The last time a government shutdown of this kind occurred, in September 2013, the House and Senate unanimously passed a bill ensuring that military paychecks would continue. Similar effort this time around failed. Regarding House and Senate members\u2019 pay, the Congressional Research Service notes that: Article I, Section 6, of the U.S. Constitution authorizes compensation for Members of Congress \u201cascertained by law, and paid out of the Treasury of the United States.\u201d Adjustments are governed by the Ethics Reform Act of 1989 and the 27th Amendment to the Constitution. This means members of Congress are paid regardless of the status of the federal budget. Although an eleventh-hour bill calling for withholding members\u2019 salaries was introduced before the shutdown, it failed to pass. Some members have announced they will voluntarily forego their salaries until government funding is restored, with some pledging to donate their pay to charity. A vote in the U.S. Senate to end the shutdown by passing a short-term (three-week) spending bill was scheduled to take place at noon EST on 22 January. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "9009",
+   "_score": 7.5247984,
+   "_source": {
+    "title": "Government Cheddar",
+    "url": "https://www.snopes.com/fact-check/obama-orders-2350-dollar-tax-rebate-november/",
+    "date_published": "",
+    "author_name": "Kim LaCapria",
+    "category": "Junk News",
+    "tags": [
+     "united media publishing"
+    ],
+    "claim": "",
+    "content": ""
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "3290",
+   "_score": 7.4983106,
+   "_source": {
+    "title": "Did a Landlord Tell Tenants That the Government Shutdown Could Cause Them to Be Evicted?",
+    "url": "https://www.snopes.com/fact-check/landlord-tenants-fed-shutdown/",
+    "date_published": "18 January 2019",
+    "rating": "Correct Attribution",
+    "author_name": "Arturo Garcia",
+    "category": "Politics",
+    "tags": [
+     "federal government shutdown"
+    ],
+    "claim": "Arkansas landlord Annette Cowen informed tenants at her rental properties they could face eviction if they failed to pay rent as a result of lacking the income provided by government housing subsidy programs.",
+    "content": " A January 2019 letter from a landlord in Arkansas to her tenants highlighted the mounting concern over the effect of an ongoing partial government shutdown on persons relying upon federal assistance to cover their housing costs. Annette Cowen\u2019s directive to residents at the apartment complexes she runs in the state was first reported by local news outlets before spreading online: To all tenants: Due to the shutdown of the federal government, your rental assistance portion of your rent is not being paid. As of now, you have no rental assistance and your rent must be paid prior to January 20th or eviction procedures may begin against you. Until the government opens again, you are responsible for ALL your rental amount. Your complex is not in the business of furnishing free rent. Rent must be paid prior to January 20th or eviction proceedings may begin against you. If rents are not collected the complex has no money to pay bills including water, sewer and garbage. I would suggest you personally contact your Senators and Representatives in Washington D.C. if you want your rental assistance to be paid. You must pay all your rent immediately.  Cowen told another local news outlet she wanted her tenants to understand her \u201csituation.\u201d         \u201cIt\u2019s more than just having a roof over their head,\u201d she said. \u201cWhat good is that if there is no water and no heat.\u201d A number of the residents renting from Cowen take part in the Section 515 rural housing program operated by the U.S. Department of Agriculture (USDA). That program is for people with low to moderate incomes or living with disabilities. But it is unclear whether Cowen would have the ability to carry out evictions in the event the government shutdown, which began in December 2018, continued to stop landlords from receiving the federal subsidies. Those funds help people who use Section 515 or its counterpart, Section 8, the program administered by the federal department of Housing and Urban Development (HUD). \u201cThere\u2019s no way that they can evict anybody,\u201d Democratic Rep. Collin Peterson of Minnesota said of the situation concerning her tenants. Peterson is the ranking member of the House Agriculture Committee, which oversees the USDA. Also, at least one HUD regulation on housing vouchers issued under Section 8 states that tenants cannot be evicted in the event their voucher payments are not available. The agency itself advised landlords taking part in programs serving multi-family households in a letter on 4 January 2019 that they use their own reserve accounts to cover a lapse in funding, instead of carrying out evictions. Thirteen days after HUD\u2019s letter to landlords, Rep. Marc Veasey of Texas and Virginia Sen. Mark Warner, both Democrats, released their own letter signed by 170 Democratic Party lawmakers urging President Donald Trump to re-open HUD to avoid a potential crisis. That letter read in part: \u201cThe American people should not be used as leverage, or be held hostage, to fulfill a political agenda. The longer this shutdown extends, the more harm will be done to seniors, families with children, people with disabilities, and other Americans who rely on these programs. We urge you to end this shutdown and provide immediate relief to Americans being impacted by this funding crisis. In these times of uncertainty and tension, we must continue to prioritize the American people.\u201d Republican lawmaker Rick Crawford, who represents Arkansas\u2019s First Congressional District, said of the possibility of evictions: \u201cWe wouldn\u2019t allow that to happen.\u201d We contacted his office asking if he had specific actions in mind to avoid that prospect but did not hear back. Days after Cowen\u2019s letter circulated online, she said she had been contacted by a USDA official who told her there would be enough funding to provide subsidies for her tenants relying on them through at least February 2019. \u201cYou all did a really good job by contacting your senators and representatives and you all got the job done!\u201d she said in a new letter to residents. \u201cYou can be assured that all the news people are aware of our situation both statewide and nationwide. Thank you for the help! Your voice does matter! Hopefully our government will open back up soon and our lives will be back to normal.\u201d We also contacted the House Committee on Financial Services asking for more specific information as to how long the program helping Cowen\u2019s tenants could be funded in the event that the government shutdown extended past January 2019, but had yet to hear back. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "13302",
+   "_score": 7.4983106,
+   "_source": {
+    "title": "Are Black Heritage Stamps Being Discontinued?",
+    "url": "https://www.snopes.com/fact-check/black-heritage-stamps/",
+    "date_published": "23 March 2000",
+    "rating": "False",
+    "author_name": "David Mikkelson",
+    "category": "Politics",
+    "tags": [
+     "Government",
+     "postage stamps"
+    ],
+    "claim": "The U.S. Postal Service is discontinuing the Black Heritage series of postage stamps and destroying the remaining stock.",
+    "content": " A significant subset of the e-mail forwards we receive consists of expressions of the theme that blacks are being overlooked and slighted by white Americans, particularly in the economic arena. A common feature of such messages are claims that major companies decline to advertise in media that reach primarily black audiences (because those businesses fail to recognize both the social desires and income levels of black Americans) and that the roles of blacks in American history have been ignored or minimized. Examples: [Collected via e-mail, 2000] Subject: Discontinuing and DESTROYING Black Stamps I was in the post office this morning and requested the African American stamp. The postal worker informed me that they will DESTROY all remaining African American Heritage stamps at the end of the month instead of following their usual process of selling them until they are depleted. She also said that they were asking patrons to complain to the Post Master and gave me a complaint form. Needless to say, I\u2019ve already completed the form. The post office is considering discontinuing Black Heritage Stamps because they aren\u2019t selling. Instead of taking the path of least resistance and accepting the love, flag, rose or teddy bear stamps that they offer you automatically, request African-American stamps each and every time you mail something. If we don\u2019t buy them, nobody will. Perhaps you think it\u2019s not a major issue. However, it is a part of the ongoing effort to assert ourselves as a major economic force in this society. PASS THE MESSAGE ON AND LET\u2019S KEEP BLACK STAMPS IN CIRCULATION.    [Collected via e-mail, 2007] US POST OFFICE TO DESTROY AFRICAN AMERICAN STAMPS! Thurgood Marshall, Roy Wilkins, Langston Hughes, Zora Neale Hurston, Patricia Roberts Harris are all on these stamps. Please forward this and buy a book of our stamps ASAP. The P.O. will DESTROY all remaining African American Heritage stamps at the end of the month instead of following their usual procedure of selling them until they are depleted. Why? Because we\u2019re not buying them! However, our postal workers are asking patrons to complain to the Post Master, via a complaint form. Please ask for and complete the form (at the post office). Skip the love, flag, rose or teddy-bear stamps that they offer you automatically, request African-American stamps every time. If we don\u2019t buy them, nobody will. We need to keep the little things that we do get. Please send this email to all your friends so we can keep BLACK STAMPS in circulation!!!! This current message touches on both these themes \u2014 postage stamps honoring the heritage and contributions of Black Americans are being discontinued and destroyed for the most basic of economic reasons: because people don\u2019t buy them. In this particular case, however, those feelings are misplaced: the United States Postal Service (USPS) is neither discontinuing the Black Heritage series of postage stamps nor planning to destroy the remaining stock of those issues. The series has been going strong ever since 1978, and the 2007 stamp (the 30th entry in the series) features singer Ella Fitzgerald. There is no end to the Black Heritage series in sight no matter how well or poorly any of its individual stamps sell, but rumors claiming that the series is in danger of discontinuation due to low sales--> have been circulating since at least 2000, when Executive Director of Stamp Services Azeezaly S. Jaffer issued an official USPS media statement disclaiming those rumors: Given the popularity and importance of the Black Heritage stamps, there are no plans to discontinue the series. It is unfortunate that such rumors have spread, and we hope that the Postal Service\u2019s commitment to honoring the historical achievements and contributions of African Americans on stamps will dispel any further concerns[.]         This policy was confirmed yet again by the USPS in a March 2005 press release: To dispel recurring rumors that its long-standing Black Heritage stamp series will be discontinued, a senior postal official reiterated the Postal Service\u2019s continued commitment to honoring African Americans on stamps.\u201dNothing could be further from the truth. These rumors continue to resurface around this time of year,\u201d explained David Failor, Executive Director of Stamp Services, U.S. Postal Service, referring to the deluge of inquiries the Postal Service receives shortly after a Black Heritage stamp issuance. He said, \u201cAs a main component of our annual stamp program, the Black Heritage series is alive and well, and here to stay. We\u2019re already looking forward to announcing next year\u2019s honoree this fall.\u201d The myth started several years ago through an anonymous email that alerted recipients to buy Black Heritage stamps before Post Offices take them off sale due to lack of demand. In 2007 the USPS confirmed yet again that not only are Black Heritage stamps being neither discontinued nor destroyed, but that the series is one of its most popular issues: A recent Internet rumor saying the Postal Service is discontinuing the Black Heritage series is another one of those untrue yarns that the Internet is sometimes famous for, as is the rumor that the Postal Service is destroying current Black Heritage series stamps.The fact is that the Black Heritage stamp series is one of our most popular. We have no plans whatsoever to discontinue it. The Postal Service remains as strongly committed to honoring the historical achievements and contributions of African Americans on stamps as we\u2019ve always been. And we are proud to offer the latest stamp in the series honoring the great civil rights advocate and Supreme Court Justice, Thurgood Marshall. Exhorting people to buy Black Heritage stamps as a way of honoring the memories of the individuals they depict (and black Americans in general) is a worthy cause; such efforts need not be based on misinformation to succeed. "
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "14211",
+   "_score": 7.4983106,
+   "_source": {
+    "title": "\u2018One Vote\u2019 Fallacies",
+    "url": "https://www.snopes.com/fact-check/one-vote-fallacies/",
+    "date_published": "",
+    "author_name": "David Mikkelson",
+    "category": "History",
+    "tags": [
+     "ASP Article",
+     "Government"
+    ],
+    "claim": "",
+    "content": ""
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "14548",
+   "_score": 7.4983106,
+   "_source": {
+    "title": "Mussolini and On Time Trains",
+    "url": "https://www.snopes.com/fact-check/loco-motive/",
+    "date_published": "",
+    "author_name": "David Mikkelson",
+    "category": "History",
+    "tags": [
+     "ASP Article",
+     "Government"
+    ],
+    "claim": "",
+    "content": ""
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "12689",
+   "_score": 7.004947,
+   "_source": {
+    "title": "Government Grant Scam",
+    "url": "https://www.snopes.com/fact-check/grants-boon/",
+    "date_published": "",
+    "author_name": "David Mikkelson",
+    "category": "Crime",
+    "tags": [
+     "ASP Article",
+     "FDA bans e-juice"
+    ],
+    "claim": "",
+    "content": ""
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "13818",
+   "_score": 7.004947,
+   "_source": {
+    "title": "Government Grant Scams",
+    "url": "https://www.snopes.com/fact-check/government-grants/",
+    "date_published": "",
+    "author_name": "David Mikkelson",
+    "category": "Fraud & Scams",
+    "tags": [
+     "Advance Fee Scams",
+     "ASP Article",
+     "FDA bans e-juice"
+    ],
+    "claim": "",
+    "content": ""
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "11466",
+   "_score": 6.9697084,
+   "_source": {
+    "title": "Obamacare National Call Center",
+    "url": "https://www.snopes.com/fact-check/government-hotline/",
+    "date_published": "",
+    "author_name": "David Mikkelson",
+    "category": "Medical",
+    "tags": [
+     "ASP Article"
+    ],
+    "claim": "",
+    "content": ""
+   }
+  },
+  {
+   "_index": "factchecks",
+   "_type": "news",
+   "_id": "3360",
+   "_score": 6.818857,
+   "_source": {
+    "title": "Did the Coast Guard Start Reselling Seized Cocaine Amid Government Shutdown?",
+    "url": "https://www.snopes.com/fact-check/coast-guard-shutdown-cocaine/",
+    "date_published": "3 January 2019",
+    "rating": "False",
+    "author_name": "Dan Evon",
+    "category": "Humor",
+    "tags": [
+     "duffel blog",
+     "government shutdown"
+    ],
+    "claim": "The Coast Guard started reselling seized cocaine to raise funds during a government shutdown in December 2018. ",
+    "content": " When the U.S. government was forced to shut down in December 2018 over a funding dispute involving President Donald Trump\u2019s proposed border wall between the United States and Mexico, some government employees were left wondering when they would receive their next paychecks. According to \u201cThe Duffel Blog,\u201d a website with a military focus, the Coast Guard managed to solve this pay problem by turning to an unlikely source: cocaine. The Duffel Blog published an article on 29 December 2018 reporting that the U.S. Coast Guard was going to start reselling cocaine they had seized in order to supplement the pay of their members: With the Coast Guard being the only branch of the military whose members may go without during the current government shutdown, the service has decided to resell the nearly $1 billion dollars worth of cocaine seized in the past six months to supplement pay for the 42,000 men and women on active duty. This was not a genuine news article, as the Duffel Blog is a military-themed humor site whose disclaimer states that all of the site\u2019s content is satirical in nature and that none of its articles should be considered truthful: Duffel Blog is a parody of a news organization, and all content it publishes is satirical in nature. No content should be regarded as truthful, and no reference of an individual, company, or military unit seeks to inflict malice or emotional harm. All characters, groups, and military units appearing in these works are fictitious. Any resemblance to real persons, living or dead, or actual military units and companies is purely coincidental. As of this writing Coast Guard members had not yet missed a paycheck, as funds were approved to pay them on 31 December 2018:  Q: Will Coast Guard members get paid on Dec. 31? A: Yes, the Administration, the Department of Homeland Security, and the Coast Guard have identified a way to pay our military workforce on Dec. 31, 2018. This one-time action applies to military members that served on active duty in the month of December and those reserve military members that drilled prior to the lapse in appropriation. Q: Will I get paid on Jan. 15? A: This approval only covers the Dec. 31, 2018 paycheck. It does not guarantee a paycheck on Jan. 15, 2019. Meeting active duty and reserve military payroll for January 2019 will require a fiscal year 2019 appropriation, a continuing resolution, or passage of an alternative measure.  "
+   }
+  }
+ ]
+}
